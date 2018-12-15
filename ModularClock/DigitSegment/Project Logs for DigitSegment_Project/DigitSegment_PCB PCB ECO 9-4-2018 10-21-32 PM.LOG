@@ -1,0 +1,152 @@
+Added Component: Designator=C?(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=J?(DIP8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Connectors, Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Post"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness - Mating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness - Post"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material - Mating"; Value = "Phosphor Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material - Post"; Value = "Phosphor Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "30 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Open Frame"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polybutylene Terephthalate (PBT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Assmann WSW Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "A 08-LC-TT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions or Pins (Grid)"; Value = "8 (2 x 4)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch - Mating"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch - Post"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.18, 10=0.173, 25=0.1472, 50=0.1288, 100=0.1196, 250=0.1058, 500=0.1012, 1000=0.0828, 2500=0.0759 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "124929"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "AE9986-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Post Length"; Value = "0.124" (3.15mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DIP, 0.3" (7.62mm) Row Spacing"; VariantName = "[No Variations]"
+Added Component: Designator=J?(CONN_1X5_MALE_POGO)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J?(CONN_1X5_FEMALE_POGO)
+Add component. Clean all parameters for all variants
+Added Component: Designator=M?(#2_HOLE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=M?(#2_HOLE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=M?(#2_HOLE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=M?(#2_HOLE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Yageo%20Renders/0805-(2012-Metric).jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100 k?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance (Sortable)"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-100KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Yageo%20Renders/0805-(2012-Metric).jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100 k?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance (Sortable)"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-100KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(SWITCH_FSM4JSMATR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Actuator Height off PCB, from Pins"; Value = "5.00mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Material"; Value = "Polyphenylene Sulfide (PPS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Orientation"; Value = "Top Actuated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPST-NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2-1437565-7&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Rating @ Voltage"; Value = "0.05A @ 12VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination"; Value = "Non-Illuminated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Type, Color"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Voltage (Nominal)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ingress Protection"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FSM4JSMATR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "100,000 Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "160gf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-35°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Outline"; Value = "6.00mm x 6.00mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.36, 10=0.34, 25=0.2912, 50=0.2474, 100=0.2377, 250=0.21344, 500=0.20374 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "24144"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "450-1759-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "0.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C?-1
+Added Pin To Net: NetName=+5 Pin=J?-1
+Added Pin To Net: NetName=+5 Pin=J?-1
+Added Pin To Net: NetName=+5 Pin=J?-8
+Added Pin To Net: NetName=+5 Pin=R?-2
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=GND Pin=SW?-1
+Added Pin To Net: NetName=GND Pin=SW?-1
+Added Net: Name=GND
+Added Pin To Net: NetName=POS-IN Pin=J?-2
+Added Pin To Net: NetName=POS-IN Pin=J?-4
+Added Pin To Net: NetName=POS-IN Pin=R?-2
+Added Net: Name=POS-IN
+Added Pin To Net: NetName=POS-OUT Pin=J?-4
+Added Pin To Net: NetName=POS-OUT Pin=R?-1
+Added Net: Name=POS-OUT
+Added Pin To Net: NetName=RESET Pin=J?-1
+Added Pin To Net: NetName=RESET Pin=R?-1
+Added Pin To Net: NetName=RESET Pin=SW?-2
+Added Pin To Net: NetName=RESET Pin=SW?-2
+Added Net: Name=RESET
+Added Pin To Net: NetName=RGB-CO Pin=J?-3
+Added Net: Name=RGB-CO
+Added Pin To Net: NetName=RGB-DO Pin=J?-6
+Added Net: Name=RGB-DO
+Added Pin To Net: NetName=SCL Pin=J?-2
+Added Pin To Net: NetName=SCL Pin=J?-2
+Added Pin To Net: NetName=SCL Pin=J?-7
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=J?-3
+Added Pin To Net: NetName=SDA Pin=J?-3
+Added Pin To Net: NetName=SDA Pin=J?-5
+Added Net: Name=SDA
+Added Class: Name=DigitSegment_Schematic
+Added Room: Name=DigitSegment_Schematic

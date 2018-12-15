@@ -1,0 +1,288 @@
+Removed Pin From Net: NetName=+5 Pin=C2_Segment-'-1
+Removed Pin From Net: NetName=GND Pin=C2_Segment-'-2
+Removed Pin From Net: NetName=+5 Pin=C2_Segment-.-1
+Removed Pin From Net: NetName=GND Pin=C2_Segment-.-2
+Removed Pin From Net: NetName=+5 Pin=C3_Segment-'-1
+Removed Pin From Net: NetName=GND Pin=C3_Segment-'-2
+Removed Pin From Net: NetName=+5 Pin=C3_Segment-.-1
+Removed Pin From Net: NetName=GND Pin=C3_Segment-.-2
+Removed Pin From Net: NetName=+5 Pin=C4_Segment-'-1
+Removed Pin From Net: NetName=GND Pin=C4_Segment-'-2
+Removed Pin From Net: NetName=+5 Pin=C4_Segment-.-1
+Removed Pin From Net: NetName=GND Pin=C4_Segment-.-2
+Removed Pin From Net: NetName=+5 Pin=C5_Segment-'-1
+Removed Pin From Net: NetName=GND Pin=C5_Segment-'-2
+Removed Pin From Net: NetName=+5 Pin=C5_Segment-.-1
+Removed Pin From Net: NetName=GND Pin=C5_Segment-.-2
+Removed Pin From Net: NetName=+5 Pin=C6_Segment-'-1
+Removed Pin From Net: NetName=GND Pin=C6_Segment-'-2
+Removed Pin From Net: NetName=+5 Pin=C6_Segment-.-1
+Removed Pin From Net: NetName=GND Pin=C6_Segment-.-2
+Removed Pin From Net: NetName=+5 Pin=D2_Segment-'-1
+Removed Pin From Net: NetName=GND Pin=D2_Segment-'-3
+Removed Pin From Net: NetName=+5 Pin=D2_Segment-.-1
+Removed Pin From Net: NetName=GND Pin=D2_Segment-.-3
+Removed Pin From Net: NetName=+5 Pin=D3_Segment-'-1
+Removed Pin From Net: NetName=GND Pin=D3_Segment-'-3
+Removed Pin From Net: NetName=+5 Pin=D3_Segment-.-1
+Removed Pin From Net: NetName=GND Pin=D3_Segment-.-3
+Removed Pin From Net: NetName=+5 Pin=D4_Segment-'-1
+Removed Pin From Net: NetName=GND Pin=D4_Segment-'-3
+Removed Pin From Net: NetName=+5 Pin=D4_Segment-.-1
+Removed Pin From Net: NetName=GND Pin=D4_Segment-.-3
+Removed Pin From Net: NetName=+5 Pin=D5_Segment-'-1
+Removed Pin From Net: NetName=GND Pin=D5_Segment-'-3
+Removed Pin From Net: NetName=+5 Pin=D5_Segment-.-1
+Removed Pin From Net: NetName=GND Pin=D5_Segment-.-3
+Removed Pin From Net: NetName=+5 Pin=D6_Segment-'-1
+Removed Pin From Net: NetName=GND Pin=D6_Segment-'-3
+Removed Pin From Net: NetName=+5 Pin=D6_Segment-.-1
+Removed Pin From Net: NetName=GND Pin=D6_Segment-.-3
+Change Component Designator: OldDesignator=C2_Segment-0 NewDesignator=C2_S0
+Change Component Designator: OldDesignator=C2_Segment-1 NewDesignator=C2_S1
+Change Component Designator: OldDesignator=C2_Segment-2 NewDesignator=C2_S2
+Change Component Designator: OldDesignator=C2_Segment-3 NewDesignator=C2_S3
+Change Component Designator: OldDesignator=C2_Segment-4 NewDesignator=C2_S4
+Change Component Designator: OldDesignator=C2_Segment-5 NewDesignator=C2_S5
+Change Component Designator: OldDesignator=C2_Segment-6 NewDesignator=C2_S6
+Change Component Designator: OldDesignator=C2_Segment-7 NewDesignator=C2_S7
+Change Component Designator: OldDesignator=C2_Segment-8 NewDesignator=C2_S8
+Change Component Designator: OldDesignator=C2_Segment-9 NewDesignator=C2_S9
+Change Component Designator: OldDesignator=C3_Segment-0 NewDesignator=C3_S0
+Change Component Designator: OldDesignator=C3_Segment-1 NewDesignator=C3_S1
+Change Component Designator: OldDesignator=C3_Segment-2 NewDesignator=C3_S2
+Change Component Designator: OldDesignator=C3_Segment-3 NewDesignator=C3_S3
+Change Component Designator: OldDesignator=C3_Segment-4 NewDesignator=C3_S4
+Change Component Designator: OldDesignator=C3_Segment-5 NewDesignator=C3_S5
+Change Component Designator: OldDesignator=C3_Segment-6 NewDesignator=C3_S6
+Change Component Designator: OldDesignator=C3_Segment-7 NewDesignator=C3_S7
+Change Component Designator: OldDesignator=C3_Segment-8 NewDesignator=C3_S8
+Change Component Designator: OldDesignator=C3_Segment-9 NewDesignator=C3_S9
+Change Component Designator: OldDesignator=C4_Segment-0 NewDesignator=C4_S0
+Change Component Designator: OldDesignator=C4_Segment-1 NewDesignator=C4_S1
+Change Component Designator: OldDesignator=C4_Segment-2 NewDesignator=C4_S2
+Change Component Designator: OldDesignator=C4_Segment-3 NewDesignator=C4_S3
+Change Component Designator: OldDesignator=C4_Segment-4 NewDesignator=C4_S4
+Change Component Designator: OldDesignator=C4_Segment-5 NewDesignator=C4_S5
+Change Component Designator: OldDesignator=C4_Segment-6 NewDesignator=C4_S6
+Change Component Designator: OldDesignator=C4_Segment-7 NewDesignator=C4_S7
+Change Component Designator: OldDesignator=C4_Segment-8 NewDesignator=C4_S8
+Change Component Designator: OldDesignator=C4_Segment-9 NewDesignator=C4_S9
+Change Component Designator: OldDesignator=C5_Segment-0 NewDesignator=C5_S0
+Change Component Designator: OldDesignator=C5_Segment-1 NewDesignator=C5_S1
+Change Component Designator: OldDesignator=C5_Segment-2 NewDesignator=C5_S2
+Change Component Designator: OldDesignator=C5_Segment-3 NewDesignator=C5_S3
+Change Component Designator: OldDesignator=C5_Segment-4 NewDesignator=C5_S4
+Change Component Designator: OldDesignator=C5_Segment-5 NewDesignator=C5_S5
+Change Component Designator: OldDesignator=C5_Segment-6 NewDesignator=C5_S6
+Change Component Designator: OldDesignator=C5_Segment-7 NewDesignator=C5_S7
+Change Component Designator: OldDesignator=C5_Segment-8 NewDesignator=C5_S8
+Change Component Designator: OldDesignator=C5_Segment-9 NewDesignator=C5_S9
+Change Component Designator: OldDesignator=C6_Segment-0 NewDesignator=C6_S0
+Change Component Designator: OldDesignator=C6_Segment-1 NewDesignator=C6_S1
+Change Component Designator: OldDesignator=C6_Segment-2 NewDesignator=C6_S2
+Change Component Designator: OldDesignator=C6_Segment-3 NewDesignator=C6_S3
+Change Component Designator: OldDesignator=C6_Segment-4 NewDesignator=C6_S4
+Change Component Designator: OldDesignator=C6_Segment-5 NewDesignator=C6_S5
+Change Component Designator: OldDesignator=C6_Segment-6 NewDesignator=C6_S6
+Change Component Designator: OldDesignator=C6_Segment-7 NewDesignator=C6_S7
+Change Component Designator: OldDesignator=C6_Segment-8 NewDesignator=C6_S8
+Change Component Designator: OldDesignator=C6_Segment-9 NewDesignator=C6_S9
+Change Component Designator: OldDesignator=D2_Segment-0 NewDesignator=D2_S0
+Change Component Designator: OldDesignator=D2_Segment-1 NewDesignator=D2_S1
+Change Component Designator: OldDesignator=D2_Segment-2 NewDesignator=D2_S2
+Change Component Designator: OldDesignator=D2_Segment-3 NewDesignator=D2_S3
+Change Component Designator: OldDesignator=D2_Segment-4 NewDesignator=D2_S4
+Change Component Designator: OldDesignator=D2_Segment-5 NewDesignator=D2_S5
+Change Component Designator: OldDesignator=D2_Segment-6 NewDesignator=D2_S6
+Change Component Designator: OldDesignator=D2_Segment-7 NewDesignator=D2_S7
+Change Component Designator: OldDesignator=D2_Segment-8 NewDesignator=D2_S8
+Change Component Designator: OldDesignator=D2_Segment-9 NewDesignator=D2_S9
+Change Component Designator: OldDesignator=D3_Segment-0 NewDesignator=D3_S0
+Change Component Designator: OldDesignator=D3_Segment-1 NewDesignator=D3_S1
+Change Component Designator: OldDesignator=D3_Segment-2 NewDesignator=D3_S2
+Change Component Designator: OldDesignator=D3_Segment-3 NewDesignator=D3_S3
+Change Component Designator: OldDesignator=D3_Segment-4 NewDesignator=D3_S4
+Change Component Designator: OldDesignator=D3_Segment-5 NewDesignator=D3_S5
+Change Component Designator: OldDesignator=D3_Segment-6 NewDesignator=D3_S6
+Change Component Designator: OldDesignator=D3_Segment-7 NewDesignator=D3_S7
+Change Component Designator: OldDesignator=D3_Segment-8 NewDesignator=D3_S8
+Change Component Designator: OldDesignator=D3_Segment-9 NewDesignator=D3_S9
+Change Component Designator: OldDesignator=D4_Segment-0 NewDesignator=D4_S0
+Change Component Designator: OldDesignator=D4_Segment-1 NewDesignator=D4_S1
+Change Component Designator: OldDesignator=D4_Segment-2 NewDesignator=D4_S2
+Change Component Designator: OldDesignator=D4_Segment-3 NewDesignator=D4_S3
+Change Component Designator: OldDesignator=D4_Segment-4 NewDesignator=D4_S4
+Change Component Designator: OldDesignator=D4_Segment-5 NewDesignator=D4_S5
+Change Component Designator: OldDesignator=D4_Segment-6 NewDesignator=D4_S6
+Change Component Designator: OldDesignator=D4_Segment-7 NewDesignator=D4_S7
+Change Component Designator: OldDesignator=D4_Segment-8 NewDesignator=D4_S8
+Change Component Designator: OldDesignator=D4_Segment-9 NewDesignator=D4_S9
+Change Component Designator: OldDesignator=D5_Segment-0 NewDesignator=D5_S0
+Change Component Designator: OldDesignator=D5_Segment-1 NewDesignator=D5_S1
+Change Component Designator: OldDesignator=D5_Segment-2 NewDesignator=D5_S2
+Change Component Designator: OldDesignator=D5_Segment-3 NewDesignator=D5_S3
+Change Component Designator: OldDesignator=D5_Segment-4 NewDesignator=D5_S4
+Change Component Designator: OldDesignator=D5_Segment-5 NewDesignator=D5_S5
+Change Component Designator: OldDesignator=D5_Segment-6 NewDesignator=D5_S6
+Change Component Designator: OldDesignator=D5_Segment-7 NewDesignator=D5_S7
+Change Component Designator: OldDesignator=D5_Segment-8 NewDesignator=D5_S8
+Change Component Designator: OldDesignator=D5_Segment-9 NewDesignator=D5_S9
+Change Component Designator: OldDesignator=D6_Segment-0 NewDesignator=D6_S0
+Change Component Designator: OldDesignator=D6_Segment-1 NewDesignator=D6_S1
+Change Component Designator: OldDesignator=D6_Segment-2 NewDesignator=D6_S2
+Change Component Designator: OldDesignator=D6_Segment-3 NewDesignator=D6_S3
+Change Component Designator: OldDesignator=D6_Segment-4 NewDesignator=D6_S4
+Change Component Designator: OldDesignator=D6_Segment-5 NewDesignator=D6_S5
+Change Component Designator: OldDesignator=D6_Segment-6 NewDesignator=D6_S6
+Change Component Designator: OldDesignator=D6_Segment-7 NewDesignator=D6_S7
+Change Component Designator: OldDesignator=D6_Segment-8 NewDesignator=D6_S8
+Change Component Designator: OldDesignator=D6_Segment-9 NewDesignator=D6_S9
+Change component parameters: Designator = "R1"; Footprint = "R0805"; UniqueID = "\FHQKHBHC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheets"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Yageo%20Renders/0805-(2012-Metric).jpg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1 k?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Sortable)"; Value = "1000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "R0805"; UniqueID = "\CVNTUDON"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheets"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Yageo%20Renders/0805-(2012-Metric).jpg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1 k?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Sortable)"; Value = "1000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "R0805"; UniqueID = "\MBDQCFMR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheets"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Yageo%20Renders/0805-(2012-Metric).jpg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1 k?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Sortable)"; Value = "1000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C8(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C9(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C10(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=D7(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D8(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D9(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D10(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=+5 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=+5 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=+5 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=+5 Pin=D7-1
+Added Pin To Net: NetName=GND Pin=D7-3
+Added Pin To Net: NetName=+5 Pin=D8-1
+Added Pin To Net: NetName=GND Pin=D8-3
+Added Pin To Net: NetName=+5 Pin=D9-1
+Added Pin To Net: NetName=GND Pin=D9-3
+Added Pin To Net: NetName=+5 Pin=D10-1
+Added Pin To Net: NetName=GND Pin=D10-3
+Change Net Name : Old Net Name=RGB-IN_Segment-1 New Net Name=RGB-IN_S1
+Change Net Name : Old Net Name=RGB-IN_Segment-2 New Net Name=RGB-IN_S2
+Change Net Name : Old Net Name=RGB-IN_Segment-3 New Net Name=RGB-IN_S3
+Change Net Name : Old Net Name=RGB-IN_Segment-4 New Net Name=RGB-IN_S4
+Change Net Name : Old Net Name=RGB-IN_Segment-5 New Net Name=RGB-IN_S5
+Change Net Name : Old Net Name=RGB-IN_Segment-6 New Net Name=RGB-IN_S6
+Change Net Name : Old Net Name=RGB-IN_Segment-7 New Net Name=RGB-IN_S7
+Change Net Name : Old Net Name=RGB-IN_Segment-8 New Net Name=RGB-IN_S8
+Change Net Name : Old Net Name=RGB-IN_Segment-9 New Net Name=RGB-IN_S9
+Added Pin To Net: NetName=NetD7_4 Pin=D7-4
+Added Pin To Net: NetName=NetD7_4 Pin=D8-4
+Added Pin To Net: NetName=NetD7_4 Pin=D9-2
+Added Net: Name=NetD7_4
+Added Pin To Net: NetName=RGB-OUT_S9 Pin=D2_S9-2
+Added Pin To Net: NetName=RGB-OUT_S9 Pin=D9-4
+Added Pin To Net: NetName=RGB-OUT_S9 Pin=D10-4
+Added Net: Name=RGB-OUT_S9
+Change Class Name : Old Net Name=Segment-0 New Net Name=S0
+Change Class Name : Old Net Name=Segment-1 New Net Name=S1
+Change Class Name : Old Net Name=Segment-2 New Net Name=S2
+Change Class Name : Old Net Name=Segment-3 New Net Name=S3
+Change Class Name : Old Net Name=Segment-4 New Net Name=S4
+Change Class Name : Old Net Name=Segment-5 New Net Name=S5
+Change Class Name : Old Net Name=Segment-6 New Net Name=S6
+Change Class Name : Old Net Name=Segment-7 New Net Name=S7
+Change Class Name : Old Net Name=Segment-8 New Net Name=S8
+Change Class Name : Old Net Name=Segment-9 New Net Name=S9
+Added Member To Class: ClassName=DigitSegment_Schematic Member=Component C7 __template_cap
+Added Member To Class: ClassName=DigitSegment_Schematic Member=Component C8 __template_cap
+Added Member To Class: ClassName=DigitSegment_Schematic Member=Component C9 __template_cap
+Added Member To Class: ClassName=DigitSegment_Schematic Member=Component C10 __template_cap
+Added Member To Class: ClassName=DigitSegment_Schematic Member=Component D7 LED_WS2812B
+Added Member To Class: ClassName=DigitSegment_Schematic Member=Component D8 LED_WS2812B
+Added Member To Class: ClassName=DigitSegment_Schematic Member=Component D9 LED_WS2812B
+Added Member To Class: ClassName=DigitSegment_Schematic Member=Component D10 LED_WS2812B
+Change Room Name: Old Name=Segment-8 New Name=S6
+Change Room Scope: Old Scope=InComponentClass('Segment-8') New Scope=InComponentClass('S6')
+Added Room: Name=S0
+Added Room: Name=S1
+Added Room: Name=S2
+Added Room: Name=S3
+Added Room: Name=S4
+Added Room: Name=S5
+Added Room: Name=S7
+Added Room: Name=S8
+Added Room: Name=S9

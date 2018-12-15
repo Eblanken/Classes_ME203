@@ -1,0 +1,1018 @@
+Removed Pin From Net: NetName=RGB-IN Pin=J3-6
+Change Component Designator: OldDesignator=C2_0 NewDesignator=C2_02
+Change Component Designator: OldDesignator=C2_1 NewDesignator=C2_12
+Change Component Designator: OldDesignator=C2_2 NewDesignator=C2_22
+Change Component Designator: OldDesignator=C2_3 NewDesignator=C2_32
+Change Component Designator: OldDesignator=C2_4 NewDesignator=C2_42
+Change Component Designator: OldDesignator=C2_5 NewDesignator=C2_52
+Change Component Designator: OldDesignator=C2_6 NewDesignator=C2_62
+Change Component Designator: OldDesignator=C2_7 NewDesignator=C2_72
+Change Component Designator: OldDesignator=C2_8 NewDesignator=C2_82
+Change Component Designator: OldDesignator=C2_9 NewDesignator=C2_92
+Change Component Designator: OldDesignator=C3_0 NewDesignator=C3_02
+Change Component Designator: OldDesignator=C3_1 NewDesignator=C3_12
+Change Component Designator: OldDesignator=C3_2 NewDesignator=C3_22
+Change Component Designator: OldDesignator=C3_3 NewDesignator=C3_32
+Change Component Designator: OldDesignator=C3_4 NewDesignator=C3_42
+Change Component Designator: OldDesignator=C3_5 NewDesignator=C3_52
+Change Component Designator: OldDesignator=C3_6 NewDesignator=C3_62
+Change Component Designator: OldDesignator=C3_7 NewDesignator=C3_72
+Change Component Designator: OldDesignator=C3_8 NewDesignator=C3_82
+Change Component Designator: OldDesignator=C3_9 NewDesignator=C3_92
+Change Component Designator: OldDesignator=C4_0 NewDesignator=C4_02
+Change Component Designator: OldDesignator=C4_1 NewDesignator=C4_12
+Change Component Designator: OldDesignator=C4_2 NewDesignator=C4_22
+Change Component Designator: OldDesignator=C4_3 NewDesignator=C4_32
+Change Component Designator: OldDesignator=C4_4 NewDesignator=C4_42
+Change Component Designator: OldDesignator=C4_5 NewDesignator=C4_52
+Change Component Designator: OldDesignator=C4_6 NewDesignator=C4_62
+Change Component Designator: OldDesignator=C4_7 NewDesignator=C4_72
+Change Component Designator: OldDesignator=C4_8 NewDesignator=C4_82
+Change Component Designator: OldDesignator=C4_9 NewDesignator=C4_92
+Change Component Designator: OldDesignator=C5_0 NewDesignator=C5_02
+Change Component Designator: OldDesignator=C5_1 NewDesignator=C5_12
+Change Component Designator: OldDesignator=C5_2 NewDesignator=C5_22
+Change Component Designator: OldDesignator=C5_3 NewDesignator=C5_32
+Change Component Designator: OldDesignator=C5_4 NewDesignator=C5_42
+Change Component Designator: OldDesignator=C5_5 NewDesignator=C5_52
+Change Component Designator: OldDesignator=C5_6 NewDesignator=C5_62
+Change Component Designator: OldDesignator=C5_7 NewDesignator=C5_72
+Change Component Designator: OldDesignator=C5_8 NewDesignator=C5_82
+Change Component Designator: OldDesignator=C5_9 NewDesignator=C5_92
+Change Component Designator: OldDesignator=C6_0 NewDesignator=C6_02
+Change Component Designator: OldDesignator=C6_1 NewDesignator=C6_12
+Change Component Designator: OldDesignator=C6_2 NewDesignator=C6_22
+Change Component Designator: OldDesignator=C6_3 NewDesignator=C6_32
+Change Component Designator: OldDesignator=C6_4 NewDesignator=C6_42
+Change Component Designator: OldDesignator=C6_5 NewDesignator=C6_52
+Change Component Designator: OldDesignator=C6_6 NewDesignator=C6_62
+Change Component Designator: OldDesignator=C6_7 NewDesignator=C6_72
+Change Component Designator: OldDesignator=C6_8 NewDesignator=C6_82
+Change Component Designator: OldDesignator=C6_9 NewDesignator=C6_92
+Change Component Designator: OldDesignator=D2_0 NewDesignator=D2_02
+Change Component Designator: OldDesignator=D2_1 NewDesignator=D2_12
+Change Component Designator: OldDesignator=D2_2 NewDesignator=D2_22
+Change Component Designator: OldDesignator=D2_3 NewDesignator=D2_32
+Change Component Designator: OldDesignator=D2_4 NewDesignator=D2_42
+Change Component Designator: OldDesignator=D2_5 NewDesignator=D2_52
+Change Component Designator: OldDesignator=D2_6 NewDesignator=D2_62
+Change Component Designator: OldDesignator=D2_7 NewDesignator=D2_72
+Change Component Designator: OldDesignator=D2_8 NewDesignator=D2_82
+Change Component Designator: OldDesignator=D2_9 NewDesignator=D2_92
+Change Component Designator: OldDesignator=D3_0 NewDesignator=D3_02
+Change Component Designator: OldDesignator=D3_1 NewDesignator=D3_12
+Change Component Designator: OldDesignator=D3_2 NewDesignator=D3_22
+Change Component Designator: OldDesignator=D3_3 NewDesignator=D3_32
+Change Component Designator: OldDesignator=D3_4 NewDesignator=D3_42
+Change Component Designator: OldDesignator=D3_5 NewDesignator=D3_52
+Change Component Designator: OldDesignator=D3_6 NewDesignator=D3_62
+Change Component Designator: OldDesignator=D3_7 NewDesignator=D3_72
+Change Component Designator: OldDesignator=D3_8 NewDesignator=D3_82
+Change Component Designator: OldDesignator=D3_9 NewDesignator=D3_92
+Change Component Designator: OldDesignator=D4_0 NewDesignator=D4_02
+Change Component Designator: OldDesignator=D4_1 NewDesignator=D4_12
+Change Component Designator: OldDesignator=D4_2 NewDesignator=D4_22
+Change Component Designator: OldDesignator=D4_3 NewDesignator=D4_32
+Change Component Designator: OldDesignator=D4_4 NewDesignator=D4_42
+Change Component Designator: OldDesignator=D4_5 NewDesignator=D4_52
+Change Component Designator: OldDesignator=D4_6 NewDesignator=D4_62
+Change Component Designator: OldDesignator=D4_7 NewDesignator=D4_72
+Change Component Designator: OldDesignator=D4_8 NewDesignator=D4_82
+Change Component Designator: OldDesignator=D4_9 NewDesignator=D4_92
+Change Component Designator: OldDesignator=D5_0 NewDesignator=D5_02
+Change Component Designator: OldDesignator=D5_1 NewDesignator=D5_12
+Change Component Designator: OldDesignator=D5_2 NewDesignator=D5_22
+Change Component Designator: OldDesignator=D5_3 NewDesignator=D5_32
+Change Component Designator: OldDesignator=D5_4 NewDesignator=D5_42
+Change Component Designator: OldDesignator=D5_5 NewDesignator=D5_52
+Change Component Designator: OldDesignator=D5_6 NewDesignator=D5_62
+Change Component Designator: OldDesignator=D5_7 NewDesignator=D5_72
+Change Component Designator: OldDesignator=D5_8 NewDesignator=D5_82
+Change Component Designator: OldDesignator=D5_9 NewDesignator=D5_92
+Change Component Designator: OldDesignator=D6_0 NewDesignator=D6_02
+Change Component Designator: OldDesignator=D6_1 NewDesignator=D6_12
+Change Component Designator: OldDesignator=D6_2 NewDesignator=D6_22
+Change Component Designator: OldDesignator=D6_3 NewDesignator=D6_32
+Change Component Designator: OldDesignator=D6_4 NewDesignator=D6_42
+Change Component Designator: OldDesignator=D6_5 NewDesignator=D6_52
+Change Component Designator: OldDesignator=D6_6 NewDesignator=D6_62
+Change Component Designator: OldDesignator=D6_7 NewDesignator=D6_72
+Change Component Designator: OldDesignator=D6_8 NewDesignator=D6_82
+Change Component Designator: OldDesignator=D6_9 NewDesignator=D6_92
+Change component parameters: Designator = "R1"; Footprint = "R0805"; UniqueID = "\FHQKHBHC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheets"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Yageo%20Renders/0805-(2012-Metric).jpg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1 k?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Sortable)"; Value = "1000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "R0805"; UniqueID = "\CVNTUDON"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheets"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Yageo%20Renders/0805-(2012-Metric).jpg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1 k?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Sortable)"; Value = "1000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "R0805"; UniqueID = "\MBDQCFMR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheets"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Yageo%20Renders/0805-(2012-Metric).jpg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1 k?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (Sortable)"; Value = "1000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00KCRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=C2_01(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C2_11(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C2_21(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C2_31(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C2_41(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C2_51(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C2_61(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C2_71(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C2_81(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C2_91(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C3_01(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C3_11(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C3_21(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C3_31(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C3_41(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C3_51(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C3_61(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C3_71(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C3_81(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C3_91(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C4_01(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C4_11(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C4_21(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C4_31(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C4_41(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C4_51(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C4_61(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C4_71(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C4_81(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C4_91(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C5_01(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C5_11(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C5_21(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C5_31(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C5_41(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C5_51(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C5_61(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C5_71(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C5_81(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C5_91(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C6_01(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C6_11(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C6_21(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C6_31(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C6_41(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C6_51(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C6_61(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C6_71(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C6_81(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C6_91(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance (shorthand)"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - pF (Machine readable)"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1664-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=D2_01(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2_11(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2_21(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2_31(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2_41(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2_51(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2_61(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2_71(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2_81(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2_91(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3_01(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3_11(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3_21(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3_31(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3_41(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3_51(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3_61(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3_71(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3_81(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3_91(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4_01(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4_11(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4_21(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4_31(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4_41(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4_51(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4_61(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4_71(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4_81(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4_91(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5_01(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5_11(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5_21(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5_31(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5_41(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5_51(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5_61(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5_71(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5_81(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5_91(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6_01(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6_11(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6_21(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6_31(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6_41(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6_51(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6_61(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6_71(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6_81(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6_91(4DFN5X5_WGS2812B)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5 Pin=C2_01-1
+Added Pin To Net: NetName=GND Pin=C2_01-2
+Added Pin To Net: NetName=+5 Pin=C2_11-1
+Added Pin To Net: NetName=GND Pin=C2_11-2
+Added Pin To Net: NetName=+5 Pin=C2_21-1
+Added Pin To Net: NetName=GND Pin=C2_21-2
+Added Pin To Net: NetName=+5 Pin=C2_31-1
+Added Pin To Net: NetName=GND Pin=C2_31-2
+Added Pin To Net: NetName=+5 Pin=C2_41-1
+Added Pin To Net: NetName=GND Pin=C2_41-2
+Added Pin To Net: NetName=+5 Pin=C2_51-1
+Added Pin To Net: NetName=GND Pin=C2_51-2
+Added Pin To Net: NetName=+5 Pin=C2_61-1
+Added Pin To Net: NetName=GND Pin=C2_61-2
+Added Pin To Net: NetName=+5 Pin=C2_71-1
+Added Pin To Net: NetName=GND Pin=C2_71-2
+Added Pin To Net: NetName=+5 Pin=C2_81-1
+Added Pin To Net: NetName=GND Pin=C2_81-2
+Added Pin To Net: NetName=+5 Pin=C2_91-1
+Added Pin To Net: NetName=GND Pin=C2_91-2
+Added Pin To Net: NetName=+5 Pin=C3_01-1
+Added Pin To Net: NetName=GND Pin=C3_01-2
+Added Pin To Net: NetName=+5 Pin=C3_11-1
+Added Pin To Net: NetName=GND Pin=C3_11-2
+Added Pin To Net: NetName=+5 Pin=C3_21-1
+Added Pin To Net: NetName=GND Pin=C3_21-2
+Added Pin To Net: NetName=+5 Pin=C3_31-1
+Added Pin To Net: NetName=GND Pin=C3_31-2
+Added Pin To Net: NetName=+5 Pin=C3_41-1
+Added Pin To Net: NetName=GND Pin=C3_41-2
+Added Pin To Net: NetName=+5 Pin=C3_51-1
+Added Pin To Net: NetName=GND Pin=C3_51-2
+Added Pin To Net: NetName=+5 Pin=C3_61-1
+Added Pin To Net: NetName=GND Pin=C3_61-2
+Added Pin To Net: NetName=+5 Pin=C3_71-1
+Added Pin To Net: NetName=GND Pin=C3_71-2
+Added Pin To Net: NetName=+5 Pin=C3_81-1
+Added Pin To Net: NetName=GND Pin=C3_81-2
+Added Pin To Net: NetName=+5 Pin=C3_91-1
+Added Pin To Net: NetName=GND Pin=C3_91-2
+Added Pin To Net: NetName=+5 Pin=C4_01-1
+Added Pin To Net: NetName=GND Pin=C4_01-2
+Added Pin To Net: NetName=+5 Pin=C4_11-1
+Added Pin To Net: NetName=GND Pin=C4_11-2
+Added Pin To Net: NetName=+5 Pin=C4_21-1
+Added Pin To Net: NetName=GND Pin=C4_21-2
+Added Pin To Net: NetName=+5 Pin=C4_31-1
+Added Pin To Net: NetName=GND Pin=C4_31-2
+Added Pin To Net: NetName=+5 Pin=C4_41-1
+Added Pin To Net: NetName=GND Pin=C4_41-2
+Added Pin To Net: NetName=+5 Pin=C4_51-1
+Added Pin To Net: NetName=GND Pin=C4_51-2
+Added Pin To Net: NetName=+5 Pin=C4_61-1
+Added Pin To Net: NetName=GND Pin=C4_61-2
+Added Pin To Net: NetName=+5 Pin=C4_71-1
+Added Pin To Net: NetName=GND Pin=C4_71-2
+Added Pin To Net: NetName=+5 Pin=C4_81-1
+Added Pin To Net: NetName=GND Pin=C4_81-2
+Added Pin To Net: NetName=+5 Pin=C4_91-1
+Added Pin To Net: NetName=GND Pin=C4_91-2
+Added Pin To Net: NetName=+5 Pin=C5_01-1
+Added Pin To Net: NetName=GND Pin=C5_01-2
+Added Pin To Net: NetName=+5 Pin=C5_11-1
+Added Pin To Net: NetName=GND Pin=C5_11-2
+Added Pin To Net: NetName=+5 Pin=C5_21-1
+Added Pin To Net: NetName=GND Pin=C5_21-2
+Added Pin To Net: NetName=+5 Pin=C5_31-1
+Added Pin To Net: NetName=GND Pin=C5_31-2
+Added Pin To Net: NetName=+5 Pin=C5_41-1
+Added Pin To Net: NetName=GND Pin=C5_41-2
+Added Pin To Net: NetName=+5 Pin=C5_51-1
+Added Pin To Net: NetName=GND Pin=C5_51-2
+Added Pin To Net: NetName=+5 Pin=C5_61-1
+Added Pin To Net: NetName=GND Pin=C5_61-2
+Added Pin To Net: NetName=+5 Pin=C5_71-1
+Added Pin To Net: NetName=GND Pin=C5_71-2
+Added Pin To Net: NetName=+5 Pin=C5_81-1
+Added Pin To Net: NetName=GND Pin=C5_81-2
+Added Pin To Net: NetName=+5 Pin=C5_91-1
+Added Pin To Net: NetName=GND Pin=C5_91-2
+Added Pin To Net: NetName=+5 Pin=C6_01-1
+Added Pin To Net: NetName=GND Pin=C6_01-2
+Added Pin To Net: NetName=+5 Pin=C6_11-1
+Added Pin To Net: NetName=GND Pin=C6_11-2
+Added Pin To Net: NetName=+5 Pin=C6_21-1
+Added Pin To Net: NetName=GND Pin=C6_21-2
+Added Pin To Net: NetName=+5 Pin=C6_31-1
+Added Pin To Net: NetName=GND Pin=C6_31-2
+Added Pin To Net: NetName=+5 Pin=C6_41-1
+Added Pin To Net: NetName=GND Pin=C6_41-2
+Added Pin To Net: NetName=+5 Pin=C6_51-1
+Added Pin To Net: NetName=GND Pin=C6_51-2
+Added Pin To Net: NetName=+5 Pin=C6_61-1
+Added Pin To Net: NetName=GND Pin=C6_61-2
+Added Pin To Net: NetName=+5 Pin=C6_71-1
+Added Pin To Net: NetName=GND Pin=C6_71-2
+Added Pin To Net: NetName=+5 Pin=C6_81-1
+Added Pin To Net: NetName=GND Pin=C6_81-2
+Added Pin To Net: NetName=+5 Pin=C6_91-1
+Added Pin To Net: NetName=GND Pin=C6_91-2
+Added Pin To Net: NetName=+5 Pin=D2_01-1
+Added Pin To Net: NetName=GND Pin=D2_01-3
+Added Pin To Net: NetName=+5 Pin=D2_11-1
+Added Pin To Net: NetName=GND Pin=D2_11-3
+Added Pin To Net: NetName=+5 Pin=D2_21-1
+Added Pin To Net: NetName=GND Pin=D2_21-3
+Added Pin To Net: NetName=+5 Pin=D2_31-1
+Added Pin To Net: NetName=GND Pin=D2_31-3
+Added Pin To Net: NetName=+5 Pin=D2_41-1
+Added Pin To Net: NetName=GND Pin=D2_41-3
+Added Pin To Net: NetName=+5 Pin=D2_51-1
+Added Pin To Net: NetName=GND Pin=D2_51-3
+Added Pin To Net: NetName=+5 Pin=D2_61-1
+Added Pin To Net: NetName=GND Pin=D2_61-3
+Added Pin To Net: NetName=+5 Pin=D2_71-1
+Added Pin To Net: NetName=GND Pin=D2_71-3
+Added Pin To Net: NetName=+5 Pin=D2_81-1
+Added Pin To Net: NetName=GND Pin=D2_81-3
+Added Pin To Net: NetName=+5 Pin=D2_91-1
+Added Pin To Net: NetName=RGB-IN Pin=D2_91-2
+Added Pin To Net: NetName=GND Pin=D2_91-3
+Added Pin To Net: NetName=+5 Pin=D3_01-1
+Added Pin To Net: NetName=GND Pin=D3_01-3
+Added Pin To Net: NetName=+5 Pin=D3_11-1
+Added Pin To Net: NetName=GND Pin=D3_11-3
+Added Pin To Net: NetName=+5 Pin=D3_21-1
+Added Pin To Net: NetName=GND Pin=D3_21-3
+Added Pin To Net: NetName=+5 Pin=D3_31-1
+Added Pin To Net: NetName=GND Pin=D3_31-3
+Added Pin To Net: NetName=+5 Pin=D3_41-1
+Added Pin To Net: NetName=GND Pin=D3_41-3
+Added Pin To Net: NetName=+5 Pin=D3_51-1
+Added Pin To Net: NetName=GND Pin=D3_51-3
+Added Pin To Net: NetName=+5 Pin=D3_61-1
+Added Pin To Net: NetName=GND Pin=D3_61-3
+Added Pin To Net: NetName=+5 Pin=D3_71-1
+Added Pin To Net: NetName=GND Pin=D3_71-3
+Added Pin To Net: NetName=+5 Pin=D3_81-1
+Added Pin To Net: NetName=GND Pin=D3_81-3
+Added Pin To Net: NetName=+5 Pin=D3_91-1
+Added Pin To Net: NetName=GND Pin=D3_91-3
+Added Pin To Net: NetName=+5 Pin=D4_01-1
+Added Pin To Net: NetName=GND Pin=D4_01-3
+Added Pin To Net: NetName=+5 Pin=D4_11-1
+Added Pin To Net: NetName=GND Pin=D4_11-3
+Added Pin To Net: NetName=+5 Pin=D4_21-1
+Added Pin To Net: NetName=GND Pin=D4_21-3
+Added Pin To Net: NetName=+5 Pin=D4_31-1
+Added Pin To Net: NetName=GND Pin=D4_31-3
+Added Pin To Net: NetName=+5 Pin=D4_41-1
+Added Pin To Net: NetName=GND Pin=D4_41-3
+Added Pin To Net: NetName=+5 Pin=D4_51-1
+Added Pin To Net: NetName=GND Pin=D4_51-3
+Added Pin To Net: NetName=+5 Pin=D4_61-1
+Added Pin To Net: NetName=GND Pin=D4_61-3
+Added Pin To Net: NetName=+5 Pin=D4_71-1
+Added Pin To Net: NetName=GND Pin=D4_71-3
+Added Pin To Net: NetName=+5 Pin=D4_81-1
+Added Pin To Net: NetName=GND Pin=D4_81-3
+Added Pin To Net: NetName=+5 Pin=D4_91-1
+Added Pin To Net: NetName=GND Pin=D4_91-3
+Added Pin To Net: NetName=+5 Pin=D5_01-1
+Added Pin To Net: NetName=GND Pin=D5_01-3
+Added Pin To Net: NetName=+5 Pin=D5_11-1
+Added Pin To Net: NetName=GND Pin=D5_11-3
+Added Pin To Net: NetName=+5 Pin=D5_21-1
+Added Pin To Net: NetName=GND Pin=D5_21-3
+Added Pin To Net: NetName=+5 Pin=D5_31-1
+Added Pin To Net: NetName=GND Pin=D5_31-3
+Added Pin To Net: NetName=+5 Pin=D5_41-1
+Added Pin To Net: NetName=GND Pin=D5_41-3
+Added Pin To Net: NetName=+5 Pin=D5_51-1
+Added Pin To Net: NetName=GND Pin=D5_51-3
+Added Pin To Net: NetName=+5 Pin=D5_61-1
+Added Pin To Net: NetName=GND Pin=D5_61-3
+Added Pin To Net: NetName=+5 Pin=D5_71-1
+Added Pin To Net: NetName=GND Pin=D5_71-3
+Added Pin To Net: NetName=+5 Pin=D5_81-1
+Added Pin To Net: NetName=GND Pin=D5_81-3
+Added Pin To Net: NetName=+5 Pin=D5_91-1
+Added Pin To Net: NetName=GND Pin=D5_91-3
+Added Pin To Net: NetName=+5 Pin=D6_01-1
+Added Pin To Net: NetName=GND Pin=D6_01-3
+Added Pin To Net: NetName=+5 Pin=D6_11-1
+Added Pin To Net: NetName=GND Pin=D6_11-3
+Added Pin To Net: NetName=+5 Pin=D6_21-1
+Added Pin To Net: NetName=GND Pin=D6_21-3
+Added Pin To Net: NetName=+5 Pin=D6_31-1
+Added Pin To Net: NetName=GND Pin=D6_31-3
+Added Pin To Net: NetName=+5 Pin=D6_41-1
+Added Pin To Net: NetName=GND Pin=D6_41-3
+Added Pin To Net: NetName=+5 Pin=D6_51-1
+Added Pin To Net: NetName=GND Pin=D6_51-3
+Added Pin To Net: NetName=+5 Pin=D6_61-1
+Added Pin To Net: NetName=GND Pin=D6_61-3
+Added Pin To Net: NetName=+5 Pin=D6_71-1
+Added Pin To Net: NetName=GND Pin=D6_71-3
+Added Pin To Net: NetName=+5 Pin=D6_81-1
+Added Pin To Net: NetName=GND Pin=D6_81-3
+Added Pin To Net: NetName=+5 Pin=D6_91-1
+Added Pin To Net: NetName=GND Pin=D6_91-3
+Change Net Name : Old Net Name=RGB-IN New Net Name=RGB-IN_02
+Change Net Name : Old Net Name=RGB-IN_1 New Net Name=RGB-IN_12
+Change Net Name : Old Net Name=RGB-IN_2 New Net Name=RGB-IN_22
+Change Net Name : Old Net Name=RGB-IN_3 New Net Name=RGB-IN_32
+Change Net Name : Old Net Name=RGB-IN_4 New Net Name=RGB-IN_42
+Change Net Name : Old Net Name=RGB-IN_5 New Net Name=RGB-IN_52
+Change Net Name : Old Net Name=RGB-IN_6 New Net Name=RGB-IN_62
+Change Net Name : Old Net Name=RGB-IN_7 New Net Name=RGB-IN_72
+Change Net Name : Old Net Name=RGB-IN_8 New Net Name=RGB-IN_82
+Change Net Name : Old Net Name=RGB-IN_9 New Net Name=RGB-IN_92
+Change Net Name : Old Net Name=RGB-OUT_9 New Net Name=RGB-OUT_92
+Added Pin To Net: NetName=RGB-IN_11 Pin=D2_01-2
+Added Pin To Net: NetName=RGB-IN_11 Pin=D2_11-4
+Added Pin To Net: NetName=RGB-IN_11 Pin=D3_11-4
+Added Pin To Net: NetName=RGB-IN_11 Pin=D4_11-4
+Added Pin To Net: NetName=RGB-IN_11 Pin=D5_11-4
+Added Pin To Net: NetName=RGB-IN_11 Pin=D6_11-4
+Added Net: Name=RGB-IN_11
+Added Pin To Net: NetName=RGB-IN_21 Pin=D2_11-2
+Added Pin To Net: NetName=RGB-IN_21 Pin=D2_21-4
+Added Pin To Net: NetName=RGB-IN_21 Pin=D3_21-4
+Added Pin To Net: NetName=RGB-IN_21 Pin=D4_21-4
+Added Pin To Net: NetName=RGB-IN_21 Pin=D5_21-4
+Added Pin To Net: NetName=RGB-IN_21 Pin=D6_21-4
+Added Net: Name=RGB-IN_21
+Added Pin To Net: NetName=RGB-IN_31 Pin=D2_21-2
+Added Pin To Net: NetName=RGB-IN_31 Pin=D2_31-4
+Added Pin To Net: NetName=RGB-IN_31 Pin=D3_31-4
+Added Pin To Net: NetName=RGB-IN_31 Pin=D4_31-4
+Added Pin To Net: NetName=RGB-IN_31 Pin=D5_31-4
+Added Pin To Net: NetName=RGB-IN_31 Pin=D6_31-4
+Added Net: Name=RGB-IN_31
+Added Pin To Net: NetName=RGB-IN_41 Pin=D2_31-2
+Added Pin To Net: NetName=RGB-IN_41 Pin=D2_41-4
+Added Pin To Net: NetName=RGB-IN_41 Pin=D3_41-4
+Added Pin To Net: NetName=RGB-IN_41 Pin=D4_41-4
+Added Pin To Net: NetName=RGB-IN_41 Pin=D5_41-4
+Added Pin To Net: NetName=RGB-IN_41 Pin=D6_41-4
+Added Net: Name=RGB-IN_41
+Added Pin To Net: NetName=RGB-IN_51 Pin=D2_41-2
+Added Pin To Net: NetName=RGB-IN_51 Pin=D2_51-4
+Added Pin To Net: NetName=RGB-IN_51 Pin=D3_51-4
+Added Pin To Net: NetName=RGB-IN_51 Pin=D4_51-4
+Added Pin To Net: NetName=RGB-IN_51 Pin=D5_51-4
+Added Pin To Net: NetName=RGB-IN_51 Pin=D6_51-4
+Added Net: Name=RGB-IN_51
+Added Pin To Net: NetName=RGB-IN_61 Pin=D2_51-2
+Added Pin To Net: NetName=RGB-IN_61 Pin=D2_61-4
+Added Pin To Net: NetName=RGB-IN_61 Pin=D3_61-4
+Added Pin To Net: NetName=RGB-IN_61 Pin=D4_61-4
+Added Pin To Net: NetName=RGB-IN_61 Pin=D5_61-4
+Added Pin To Net: NetName=RGB-IN_61 Pin=D6_61-4
+Added Net: Name=RGB-IN_61
+Added Pin To Net: NetName=RGB-IN_71 Pin=D2_61-2
+Added Pin To Net: NetName=RGB-IN_71 Pin=D2_71-4
+Added Pin To Net: NetName=RGB-IN_71 Pin=D3_71-4
+Added Pin To Net: NetName=RGB-IN_71 Pin=D4_71-4
+Added Pin To Net: NetName=RGB-IN_71 Pin=D5_71-4
+Added Pin To Net: NetName=RGB-IN_71 Pin=D6_71-4
+Added Net: Name=RGB-IN_71
+Added Pin To Net: NetName=RGB-IN_81 Pin=D2_71-2
+Added Pin To Net: NetName=RGB-IN_81 Pin=D2_81-4
+Added Pin To Net: NetName=RGB-IN_81 Pin=D3_81-4
+Added Pin To Net: NetName=RGB-IN_81 Pin=D4_81-4
+Added Pin To Net: NetName=RGB-IN_81 Pin=D5_81-4
+Added Pin To Net: NetName=RGB-IN_81 Pin=D6_81-4
+Added Net: Name=RGB-IN_81
+Added Pin To Net: NetName=RGB-IN_91 Pin=D2_81-2
+Added Pin To Net: NetName=RGB-IN_91 Pin=D2_91-4
+Added Pin To Net: NetName=RGB-IN_91 Pin=D3_91-4
+Added Pin To Net: NetName=RGB-IN_91 Pin=D4_91-4
+Added Pin To Net: NetName=RGB-IN_91 Pin=D5_91-4
+Added Pin To Net: NetName=RGB-IN_91 Pin=D6_91-4
+Added Net: Name=RGB-IN_91
+Added Pin To Net: NetName=RGB-IN Pin=D2_01-4
+Added Pin To Net: NetName=RGB-IN Pin=D3_01-4
+Added Pin To Net: NetName=RGB-IN Pin=D4_01-4
+Added Pin To Net: NetName=RGB-IN Pin=D5_01-4
+Added Pin To Net: NetName=RGB-IN Pin=D6_01-4
+Added Pin To Net: NetName=RGB-IN Pin=J3-6
+Added Net: Name=RGB-IN
+Change Class Name : Old Net Name=0 New Net Name=02
+Change Class Name : Old Net Name=1 New Net Name=12
+Change Class Name : Old Net Name=2 New Net Name=22
+Change Class Name : Old Net Name=3 New Net Name=32
+Change Class Name : Old Net Name=4 New Net Name=42
+Change Class Name : Old Net Name=5 New Net Name=52
+Change Class Name : Old Net Name=6 New Net Name=62
+Change Class Name : Old Net Name=7 New Net Name=72
+Change Class Name : Old Net Name=8 New Net Name=82
+Change Class Name : Old Net Name=9 New Net Name=92
+Added Class: Name=01
+Added Class: Name=11
+Added Class: Name=21
+Added Class: Name=31
+Added Class: Name=41
+Added Class: Name=51
+Added Class: Name=61
+Added Class: Name=71
+Added Class: Name=81
+Added Class: Name=91
+Added Member To Class: ClassName=62 Member=Component D6_62 (D6) LED_WS2812B
+Added Member To Class: ClassName=DigitSegment_Schematic Member=Component SW1 SWITCH_FSM4JSMATR
+Added Room: Name=01
+Added Room: Name=02
+Added Room: Name=11
+Added Room: Name=12
+Added Room: Name=21
+Added Room: Name=22
+Added Room: Name=31
+Added Room: Name=32
+Added Room: Name=41
+Added Room: Name=42
+Added Room: Name=51
+Added Room: Name=52
+Added Room: Name=61
+Added Room: Name=62
+Added Room: Name=71
+Added Room: Name=72
+Added Room: Name=81
+Added Room: Name=82
+Added Room: Name=91
+Added Room: Name=92
+Added Room: Name=DigitSegment_Schematic
