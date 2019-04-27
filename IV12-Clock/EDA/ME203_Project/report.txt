@@ -1,0 +1,146 @@
+Info: Processing component “Q1:/5CA6DE17/5CAA73D0:nixiemisc_SO-08”.
+
+Info: Processing component “C4:/5CAB0187/5CAB68E9:0603”.
+
+Info: Processing component “C5:/5CAB0187/5CAB68E1:0603”.
+
+Info: Processing component “C6:/5CAA488B/5CAB4BE9:0603”.
+
+Info: Processing component “C8:/5CAEF0C6/5CB160D2:0603”.
+
+Info: Processing component “R1:/5CA6DE17/5CAB27C1:0603”.
+
+Info: Processing component “R2:/5CA6DE17/5CACFE05:0603”.
+
+Info: Processing component “Rsen1:/5CA6DE17/5CAA7F87:Resistor_SMD:R_2010_5025Metric”.
+
+Info: Processing component “RS1:/5CA6DE17/5CAC6AED:Resistor_SMD:R_1206_3216Metric”.
+
+Info: Processing component “RF1:/5CA6DE17/5CAA5888:Resistor_SMD:R_0805_2012Metric”.
+
+Info: Processing component “RC1:/5CA6DE17/5CAA53A1:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Processing component “U3:/5CAEF0C6/5CB10BE1:Package_LGA:Texas_MicroSiP-8-1EP_2.8x3.0mm_P0.65mm_EP1.1x1.9mm_SMD_ThermalVias”.
+
+Info: Processing component “R3:/5CA6DE17/5CAD00A1:0603”.
+
+Info: Cannot add new symbol “U3:/5CAEF0C6/5CB10BE1” due to missing footprint “Package_LGA:Texas_MicroSiP-8-1EP_2.8x3.0mm_P0.65mm_EP1.1x1.9mm_SMD_ThermalVias”.
+
+Info: Processing component “U4:/5CAEE30A/5CB101A4:ESP32-footprints-Lib:ESP32-WROOM”.
+
+Info: Processing component “R23:/5CAEF0C6/5CB14F9F:0603”.
+
+Info: Cannot add new symbol “U4:/5CAEE30A/5CB101A4” due to missing footprint “ESP32-footprints-Lib:ESP32-WROOM”.
+
+Info: Processing component “J1:/5CAC123E:Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical”.
+
+Info: Processing component “J2:/5CAC1D78:Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical”.
+
+Info: Processing component “J3:/5CAB0187/5CAB68AE:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical”.
+
+Info: Processing component “J4:/5CAEF0C6/5CB00F03:Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical”.
+
+Info: Processing component “J5:/5CAEF0C6/5CAEF785:Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical”.
+
+Info: Processing component “C1:/5CA6DE17/5CAA62B0:Capacitor_SMD:C_1210_3225Metric”.
+
+Info: Processing component “C3:/5CA6DE17/5CAAE693:Capacitor_SMD:C_1210_3225Metric”.
+
+Info: Processing component “C2:/5CA6DE17/5CAA7AF3:Capacitor_SMD:C_0603_1608Metric”.
+
+Info: Processing component “CC1:/5CA6DE17/5CAA50AE:Capacitor_SMD:C_0603_1608Metric”.
+
+Info: Processing component “CS1:/5CA6DE17/5CAC51AF:Capacitor_SMD:C_0603_1608Metric”.
+
+Info: Processing component “T1:/5CA6DE17/5CAAB1DB:nixiemisc_WE-FLEX_ER11_5”.
+
+Info: Processing component “R22:/5CAEF0C6/5CB1396C:0603”.
+
+Info: Cannot add new symbol “T1:/5CA6DE17/5CAAB1DB” due to missing footprint “nixiemisc_WE-FLEX_ER11_5”.
+
+Info: Processing component “U2:/5CAB0187/5CAB68A7:nixiemisc_TSSOP-16”.
+
+Info: Processing component “R21:/5CAA488B/5CAA645A:0603”.
+
+Info: Cannot add new symbol “U2:/5CAB0187/5CAB68A7” due to missing footprint “nixiemisc_TSSOP-16”.
+
+Info: Processing component “U1:/5CA6DE17/5CAA4E3D:nixiemisc_SOIC8”.
+
+Info: Processing component “R20:/5CAA488B/5CAA6166:0603”.
+
+Info: Cannot add new symbol “U1:/5CA6DE17/5CAA4E3D” due to missing footprint “nixiemisc_SOIC8”.
+
+Info: Processing component “R8:/5CAAF985:0603”.
+
+Info: Processing component “R19:/5CAB03C0:0603”.
+
+Info: Cannot add new symbol “Q1:/5CA6DE17/5CAA73D0” due to missing footprint “nixiemisc_SO-08”.
+
+Info: Processing component “D1:/5CA6DE17/5CAC9850:nixiemisc_DO-219AB”.
+
+Info: Processing component “R18:/5CAAFC7A:0603”.
+
+Info: Cannot add new symbol “D1:/5CA6DE17/5CAC9850” due to missing footprint “nixiemisc_DO-219AB”.
+
+Info: Processing component “RTC1:/5CAA488B/5CAA48F3:SO08”.
+
+Info: Processing component “BT1:/5CAA488B/5CAA4E15:BATTCON_12MM”.
+
+Info: Processing component “C7:/5CAEF0C6/5CB113DB:1210”.
+
+Info: Processing component “C9:/5CAEF0C6/5CB12E44:0805”.
+
+Info: Processing component “R5:/5CAB03C8:0603”.
+
+Info: Processing component “R6:/5CAAF887:0603”.
+
+Info: Processing component “R7:/5CAB03D0:0603”.
+
+Info: Processing component “R4:/5CAAF7AF:0603”.
+
+Info: Processing component “R9:/5CAB03D8:0603”.
+
+Info: Processing component “R10:/5CAAFA55:0603”.
+
+Info: Processing component “R11:/5CAB03E0:0603”.
+
+Info: Processing component “R12:/5CAAFC62:0603”.
+
+Info: Processing component “R13:/5CAB03E8:0603”.
+
+Info: Processing component “R14:/5CAAFC6A:0603”.
+
+Info: Processing component “R15:/5CAB03F0:0603”.
+
+Info: Processing component “R16:/5CAAFC72:0603”.
+
+Info: Processing component “R17:/5CAB03F8:0603”.
+
+Error: Cannot add symbol D1 due to missing footprint nixiemisc_DO-219AB.
+
+Error: Cannot add symbol Q1 due to missing footprint nixiemisc_SO-08.
+
+Error: Cannot add symbol U1 due to missing footprint nixiemisc_SOIC8.
+
+Error: Cannot add symbol U2 due to missing footprint nixiemisc_TSSOP-16.
+
+Error: Cannot add symbol T1 due to missing footprint nixiemisc_WE-FLEX_ER11_5.
+
+Error: Cannot add symbol U4 due to missing footprint ESP32-footprints-Lib:ESP32-WROOM.
+
+Error: Cannot add symbol U3 due to missing footprint Package_LGA:Texas_MicroSiP-8-1EP_2.8x3.0mm_P0.65mm_EP1.1x1.9mm_SMD_ThermalVias.
+
+Error: Component “D1” footprint “nixiemisc_DO-219AB” was not found in any libraries in the footprint library table.
+
+Error: Component “Q1” footprint “nixiemisc_SO-08” was not found in any libraries in the footprint library table.
+
+Error: Component “U1” footprint “nixiemisc_SOIC8” was not found in any libraries in the footprint library table.
+
+Error: Component “U2” footprint “nixiemisc_TSSOP-16” was not found in any libraries in the footprint library table.
+
+Error: Component “T1” footprint “nixiemisc_WE-FLEX_ER11_5” was not found in any libraries in the footprint library table.
+
+Error: Component “U4” footprint “ESP32-WROOM” was not found in any libraries in the footprint library table.
+
+Error: Component “U3” footprint “Texas_MicroSiP-8-1EP_2.8x3.0mm_P0.65mm_EP1.1x1.9mm_SMD_ThermalVias” was not found in any libraries in the footprint library table.
+

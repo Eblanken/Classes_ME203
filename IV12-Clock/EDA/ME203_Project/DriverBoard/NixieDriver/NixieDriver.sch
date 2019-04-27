@@ -1,0 +1,452 @@
+EESchema Schematic File Version 4
+LIBS:NixieDriver-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Driver_FET:HV5530PG-G-44PQF U?
+U 1 1 5CA9335F
+P 4500 4400
+AR Path="/5CA6DE49/5CA9335F" Ref="U?"  Part="1" 
+AR Path="/5CA93BF2/5CA9335F" Ref="U?"  Part="1" 
+AR Path="/5CA93C33/5CA9335F" Ref="U?"  Part="1" 
+AR Path="/5CA93CE8/5CA9335F" Ref="U?"  Part="1" 
+AR Path="/5CA93D29/5CA9335F" Ref="U?"  Part="1" 
+AR Path="/5CA9D58D/5CA9335F" Ref="U?"  Part="1" 
+AR Path="/5CA9335F" Ref="U1"  Part="1" 
+F 0 "U1" H 4900 4200 50  0000 R CNN
+F 1 "HV5530PG-G-44PQF" H 4900 4100 50  0000 R CNN
+F 2 "Package_QFP:PQFP-44_10x10mm_P0.8mm" H 4100 3150 50  0001 C CNN
+F 3 "" H 3600 5700 50  0001 C CNN
+	1    4500 4400
+	-1   0    0    1   
+$EndComp
+$Comp
+L SparkFun-Capacitors:0.1UF-0603-100V-10% C?
+U 1 1 5CAF5F4B
+P 6450 6100
+AR Path="/5CA6DE49/5CAF5F4B" Ref="C?"  Part="1" 
+AR Path="/5CA93BF2/5CAF5F4B" Ref="C?"  Part="1" 
+AR Path="/5CA93C33/5CAF5F4B" Ref="C?"  Part="1" 
+AR Path="/5CA93CE8/5CAF5F4B" Ref="C?"  Part="1" 
+AR Path="/5CA93D29/5CAF5F4B" Ref="C?"  Part="1" 
+AR Path="/5CA9D58D/5CAF5F4B" Ref="C?"  Part="1" 
+AR Path="/5CAF5F4B" Ref="C1"  Part="1" 
+F 0 "C1" H 6558 6150 45  0000 L CNN
+F 1 "0.1UF-0603-100V-10%" H 6558 6161 45  0001 L CNN
+F 2 "0603" H 6450 6350 20  0001 C CNN
+F 3 "" H 6450 6100 50  0001 C CNN
+F 4 "CAP-08390" H 6558 6108 60  0001 L CNN "Field4"
+	1    6450 6100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3450 4900 3250 4900
+Wire Wire Line
+	3250 4800 3450 4800
+Wire Wire Line
+	3250 4700 3450 4700
+Wire Wire Line
+	3250 4600 3450 4600
+Wire Wire Line
+	3450 4500 3250 4500
+Wire Wire Line
+	3250 4400 3450 4400
+Wire Wire Line
+	3450 4300 3250 4300
+Wire Wire Line
+	3450 4200 3250 4200
+Wire Wire Line
+	3450 4100 2700 4100
+Wire Wire Line
+	2700 4100 2700 4200
+Wire Wire Line
+	2700 4200 2750 4200
+Wire Wire Line
+	2750 4300 2600 4300
+Wire Wire Line
+	2600 4300 2600 4000
+Wire Wire Line
+	2600 4000 3450 4000
+Wire Wire Line
+	3450 3900 2500 3900
+Wire Wire Line
+	2500 4400 2750 4400
+Wire Wire Line
+	2500 3900 2500 4400
+Wire Wire Line
+	2750 4500 2400 4500
+Wire Wire Line
+	2400 4500 2400 3300
+Wire Wire Line
+	2400 3300 4000 3300
+Wire Wire Line
+	4000 3300 4000 3350
+Wire Wire Line
+	4100 3350 4100 3200
+Wire Wire Line
+	4100 3200 2300 3200
+Wire Wire Line
+	2300 3200 2300 4600
+Wire Wire Line
+	2300 4600 2750 4600
+Wire Wire Line
+	2200 4700 2200 3100
+Wire Wire Line
+	2200 3100 4200 3100
+Wire Wire Line
+	4200 3100 4200 3350
+Wire Wire Line
+	4300 3350 4300 3000
+Wire Wire Line
+	4300 3000 2100 3000
+Wire Wire Line
+	2100 3000 2100 4800
+Wire Wire Line
+	2100 4800 2750 4800
+Wire Wire Line
+	2750 4900 2000 4900
+Wire Wire Line
+	2000 4900 2000 2900
+Wire Wire Line
+	2000 2900 4400 2900
+Wire Wire Line
+	4400 2900 4400 3350
+Wire Wire Line
+	6200 4100 6300 4100
+Wire Wire Line
+	6300 4100 6300 4000
+Wire Wire Line
+	6300 4000 5500 4000
+Wire Wire Line
+	5500 3900 6400 3900
+Wire Wire Line
+	6400 3900 6400 4200
+Wire Wire Line
+	6400 4200 6200 4200
+Wire Wire Line
+	6200 4300 6500 4300
+Wire Wire Line
+	6500 4300 6500 3300
+Wire Wire Line
+	6500 3300 5000 3300
+Wire Wire Line
+	5000 3300 5000 3350
+Wire Wire Line
+	4900 3350 4900 3200
+Wire Wire Line
+	4900 3200 6600 3200
+Wire Wire Line
+	6600 3200 6600 4400
+Wire Wire Line
+	6600 4400 6200 4400
+Wire Wire Line
+	4800 3350 4800 3100
+Wire Wire Line
+	4800 3100 6700 3100
+Wire Wire Line
+	6700 3100 6700 4500
+Wire Wire Line
+	6700 4500 6200 4500
+Wire Wire Line
+	6200 4600 6800 4600
+Wire Wire Line
+	6800 4600 6800 3000
+Wire Wire Line
+	6800 3000 4700 3000
+Wire Wire Line
+	4700 3000 4700 3350
+Wire Wire Line
+	4600 3350 4600 2900
+Wire Wire Line
+	4600 2900 6900 2900
+Wire Wire Line
+	6900 2900 6900 4700
+Wire Wire Line
+	6900 4700 6200 4700
+Wire Wire Line
+	6200 4800 7000 4800
+Wire Wire Line
+	7000 4800 7000 2800
+Wire Wire Line
+	7000 2800 4500 2800
+Wire Wire Line
+	4500 2800 4500 3350
+Wire Wire Line
+	3400 6000 3700 6000
+Wire Wire Line
+	3400 6100 3700 6100
+Wire Wire Line
+	3400 6200 3700 6200
+Wire Wire Line
+	3400 6300 3700 6300
+Wire Wire Line
+	3400 6400 3700 6400
+Entry Wire Line
+	3700 6000 3800 5900
+Entry Wire Line
+	3700 6100 3800 6000
+Entry Wire Line
+	3700 6200 3800 6100
+Entry Wire Line
+	3700 6300 3800 6200
+Entry Wire Line
+	3700 6400 3800 6300
+Entry Wire Line
+	3900 5800 4000 5700
+Entry Wire Line
+	4300 5800 4400 5700
+Entry Wire Line
+	4400 5800 4500 5700
+Entry Wire Line
+	4500 5800 4600 5700
+Entry Wire Line
+	4600 5800 4700 5700
+Entry Wire Line
+	4700 5800 4800 5700
+Entry Wire Line
+	4800 5800 4900 5700
+Entry Wire Line
+	4900 5800 5000 5700
+Wire Wire Line
+	5500 6000 5200 6000
+Wire Wire Line
+	5500 6100 5200 6100
+Wire Wire Line
+	5500 6200 5200 6200
+Wire Wire Line
+	5500 6300 5200 6300
+Wire Wire Line
+	5500 6400 5200 6400
+Entry Wire Line
+	5200 6000 5100 5900
+Entry Wire Line
+	5200 6100 5100 6000
+Entry Wire Line
+	5200 6200 5100 6100
+Entry Wire Line
+	5200 6300 5100 6200
+Entry Wire Line
+	5200 6400 5100 6300
+Wire Wire Line
+	5000 5450 5000 5700
+Wire Wire Line
+	4900 5450 4900 5700
+Wire Wire Line
+	4800 5450 4800 5700
+Wire Wire Line
+	4700 5450 4700 5700
+Wire Wire Line
+	4600 5450 4600 5700
+Wire Wire Line
+	4500 5450 4500 5700
+Wire Wire Line
+	4400 5450 4400 5700
+Wire Wire Line
+	4000 5450 4000 5700
+Text Label 5000 5650 1    50   ~ 0
+~BL
+Text Label 4900 5650 1    50   ~ 0
+DI
+Text Label 4800 5650 1    50   ~ 0
+~LE
+Text Label 4700 5650 1    50   ~ 0
+12V
+Text Label 4600 5650 1    50   ~ 0
+GND
+Text Label 4500 5650 1    50   ~ 0
+CLK
+Text Label 4400 5650 1    50   ~ 0
+12V
+Text Label 4000 5650 1    50   ~ 0
+DO
+Text Label 5250 6400 0    50   ~ 0
+GND
+Text Label 3450 6400 0    50   ~ 0
+GND
+Text Label 5250 6300 0    50   ~ 0
+12V
+Text Label 3450 6300 0    50   ~ 0
+12V
+Text Label 3450 5900 0    50   ~ 0
+DO
+Text Label 5250 5900 0    50   ~ 0
+DI
+Text Label 3450 6000 0    50   ~ 0
+CLK
+Text Label 5250 6000 0    50   ~ 0
+CLK
+Text Label 3450 6100 0    50   ~ 0
+~LE
+$Comp
+L Connector_Generic:Conn_01x06 J3
+U 1 1 5CB6F9C3
+P 5700 6200
+F 0 "J3" H 5780 6192 50  0000 L CNN
+F 1 "Conn_01x06" H 5780 6101 50  0000 L CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical" H 5700 6200 50  0001 C CNN
+F 3 "~" H 5700 6200 50  0001 C CNN
+	1    5700 6200
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x06 J2
+U 1 1 5CB6FBB6
+P 3200 6200
+F 0 "J2" H 3280 6192 50  0000 L CNN
+F 1 "Conn_01x06" H 3280 6101 50  0000 L CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical" H 3200 6200 50  0001 C CNN
+F 3 "~" H 3200 6200 50  0001 C CNN
+	1    3200 6200
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3400 5900 3700 5900
+Wire Wire Line
+	5500 5900 5200 5900
+Entry Wire Line
+	3700 5900 3800 5800
+Entry Wire Line
+	5100 5800 5200 5900
+Text Label 5250 6100 0    50   ~ 0
+~LE
+Text Label 5250 6200 0    50   ~ 0
+~BL
+Text Label 3450 6200 0    50   ~ 0
+~BL
+$Comp
+L SparkFun-PowerSymbols:GND #GND0101
+U 1 1 5CB96217
+P 6450 6400
+F 0 "#GND0101" H 6500 6350 45  0001 L BNN
+F 1 "GND" H 6450 6231 45  0000 C CNN
+F 2 "" H 6450 6300 60  0001 C CNN
+F 3 "" H 6450 6300 60  0001 C CNN
+	1    6450 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+12V #PWR0101
+U 1 1 5CB962E5
+P 6450 5700
+F 0 "#PWR0101" H 6450 5550 50  0001 C CNN
+F 1 "+12V" H 6465 5873 50  0000 C CNN
+F 2 "" H 6450 5700 50  0001 C CNN
+F 3 "" H 6450 5700 50  0001 C CNN
+	1    6450 5700
+	1    0    0    -1  
+$EndComp
+Text Label 6450 5750 3    50   ~ 0
+12V
+Text Label 6450 6200 3    50   ~ 0
+GND
+Wire Wire Line
+	6450 6200 6450 6400
+Wire Wire Line
+	6450 5700 6450 5900
+$Comp
+L Connector_Generic:Conn_02x08_Counter_Clockwise J4
+U 1 1 5CA9DCC3
+P 5900 4500
+F 0 "J4" H 5950 3875 50  0000 C CNN
+F 1 "Conn_02x08_Counter_Clockwise" H 5950 3966 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x08_P2.54mm_Vertical" H 5900 4500 50  0001 C CNN
+F 3 "~" H 5900 4500 50  0001 C CNN
+	1    5900 4500
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_02x08_Counter_Clockwise J1
+U 1 1 5CAA8804
+P 2950 4600
+F 0 "J1" H 3000 3975 50  0000 C CNN
+F 1 "Conn_02x08_Counter_Clockwise" H 3000 4066 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x08_P2.54mm_Vertical" H 2950 4600 50  0001 C CNN
+F 3 "~" H 2950 4600 50  0001 C CNN
+	1    2950 4600
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	5500 4700 5700 4700
+Wire Wire Line
+	5500 4600 5700 4600
+Wire Wire Line
+	5500 4500 5700 4500
+Wire Wire Line
+	5500 4400 5700 4400
+Wire Wire Line
+	5500 4300 5700 4300
+Wire Wire Line
+	5500 4200 5700 4200
+Wire Wire Line
+	5500 4100 5700 4100
+Wire Wire Line
+	5500 4800 5700 4800
+$Comp
+L SparkFun-Hardware:STANDOFF_ELECTRICAL H1
+U 1 1 5CAC0A6D
+P 7800 3400
+F 0 "H1" H 7856 3860 45  0000 C CNN
+F 1 "STANDOFF_ELECTRICAL" H 7856 3776 45  0000 C CNN
+F 2 "STANDOFF-ELECTRICAL" H 7800 3750 20  0001 C CNN
+F 3 "" H 7800 3400 50  0001 C CNN
+F 4 "XXX-00000" H 7856 3681 60  0000 C CNN "Field4"
+	1    7800 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SparkFun-Hardware:STANDOFF_ELECTRICAL H2
+U 1 1 5CAC0DCF
+P 7800 4150
+F 0 "H2" H 7856 4610 45  0000 C CNN
+F 1 "STANDOFF_ELECTRICAL" H 7856 4526 45  0000 C CNN
+F 2 "STANDOFF-ELECTRICAL" H 7800 4500 20  0001 C CNN
+F 3 "" H 7800 4150 50  0001 C CNN
+F 4 "XXX-00000" H 7856 4431 60  0000 C CNN "Field4"
+	1    7800 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L SparkFun-Hardware:STANDOFF_ELECTRICAL H3
+U 1 1 5CAD593D
+P 8650 3400
+F 0 "H3" H 8706 3860 45  0000 C CNN
+F 1 "STANDOFF_ELECTRICAL" H 8706 3776 45  0000 C CNN
+F 2 "STANDOFF-ELECTRICAL" H 8650 3750 20  0001 C CNN
+F 3 "" H 8650 3400 50  0001 C CNN
+F 4 "XXX-00000" H 8706 3681 60  0000 C CNN "Field4"
+	1    8650 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SparkFun-Hardware:STANDOFF_ELECTRICAL H4
+U 1 1 5CAD5945
+P 8650 4150
+F 0 "H4" H 8706 4610 45  0000 C CNN
+F 1 "STANDOFF_ELECTRICAL" H 8706 4526 45  0000 C CNN
+F 2 "STANDOFF-ELECTRICAL" H 8650 4500 20  0001 C CNN
+F 3 "" H 8650 4150 50  0001 C CNN
+F 4 "XXX-00000" H 8706 4431 60  0000 C CNN "Field4"
+	1    8650 4150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2750 4700 2200 4700
+Wire Bus Line
+	3800 5800 3800 6300
+Wire Bus Line
+	5100 5800 5100 6300
+Wire Bus Line
+	3800 5800 5100 5800
+$EndSCHEMATC
