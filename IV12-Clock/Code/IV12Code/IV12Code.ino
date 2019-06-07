@@ -8,18 +8,29 @@
  *
  * Description:
  *   Firmware for a desktop clock and timer that can play music.
+ * 
+ * Notes:
+ *  - Buttons:
+ *      > Left:   T9, <10 low, > 80 high
+ *      > Middle: T8, <10 low, > 80 high
+ *      > Right:  T5, <10 low, > 80 high
+ * 
+ * TODO
+ *  - I was able to connect to my phone with a breakout board 
+ *    but was not able to with the embedded one. This may be 
+ *    a substantial problem. I also need to update the date and time from this.
  */
 
 // Real Time Clock
 #include <Wire.h>
-#include "RTClib.h"
-RTC_DS3231 rtc;
+#include "RtcDS3231.h"
+RtcDS3231<TwoWire> Rtc(Wire);
 
 // Internet Time
 #include <WiFi.h>
 #include <NTPClient.h>
 #include <WiFiUdp.h>
-const char* ssid     = "Erick'sPhone";
+const char* ssid     = "EricksPhone";
 const char* password = "password";
 WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP);
@@ -37,32 +48,20 @@ NTPClient timeClient(ntpUDP);
 
 void setup() {
   // Utility
-  Serial.begin(9600);
+  Serial.begin(115200);
   Serial.println("Starting");
   pinMode(PIN_LED, OUTPUT);
   digitalWrite(13, HIGH);
+  
   initializeNixieInterface();
-  
-  /*
-
-  // RTC Interface 
-  if(!rtc.lostPower()) {
-    Serial.println("RTC Failed");
-    while(1);
-  } else {
-    Serial.println("RTC Active");
-  }
-  
-  if (!rtc.lostPower()) {
-    Serial.println("RTC power failure!");
-    // following line sets the RTC to the date & time this sketch was compiled
-    rtc.adjust(DateTime(__DATE__, __TIME__));
-  }
-  */
+  //initializeWifi();
+  //initializeInternetTime();
+  initializeRTC();
 }
 
 void loop() {
-  testNixiesShiftUp();
+  //writeInternetTime();
+  writeRTCTime();
   /*
   // Updates current time
   DateTime now = rtc.now();
@@ -105,6 +104,7 @@ void writeVal(int inputValue, bool includeDecimals = false) {
 
 // Starts WIFI connection
 void initializeWifi() {
+  Serial.println("Initializing Wifi");
   Serial.print("Connecting to:");
   Serial.print(ssid);
   WiFi.begin(ssid, password);
@@ -119,6 +119,7 @@ void initializeWifi() {
 }
 
 void initializeNixieInterface() {
+  Serial.println("Initializing Nixie Interface");
   // Sets pins
   pinMode(PIN_NIXIE_DO,  OUTPUT);
   pinMode(PIN_NIXIE_CLK, OUTPUT);
@@ -162,18 +163,60 @@ void testNixiesCountUp() {
               writeVal(thousandths, true);
               writeVal(tenThousandths, true);
               writeVal(hundredThousandths, true);
+              delay(100);
             }
           }
+          digitalWrite(PIN_LED, hundredsths % 2);
         }
       }
     }
   }
 }
 
+//-------------------=---- TIme RTC IO -------------------------
+
+void initializeRTC() {
+  Rtc.begin();
+  if(!Rtc.IsDateTimeValid())) {
+    Serial.println("RTC has bad time, resetting.");
+    while(1);
+  } else if(!Rtc.GetIsRunning()){
+    Serial.println("RTC not active, restarting.");
+    Rtc.SetIsRunning(true);
+  }
+  
+  if (!rtc.lostPower()) {
+    Serial.println("RTC power failure!");
+    // following line sets the RTC to the date & time this sketch was compiled
+    rtc.adjust(DateTime(__DATE__, __TIME__));
+  }
+  */
+}
+
+#define countof(a) (sizeof(a) / sizeof(a[0]))
+void printDateTime(const RtcDateTime& dt) {
+    char datestring[20];
+    snprintf_P(datestring, 
+            countof(datestring),
+            PSTR("%02u/%02u/%04u %02u:%02u:%02u"),
+            dt.Month(),
+            dt.Day(),
+            dt.Year(),
+            dt.Hour(),
+            dt.Minute(),
+            dt.Second() );
+    Serial.println(datestring);
+}
+
+void writeRTCTime() {
+  RtcDateTime currTime = Rtc.GetDateTime();
+  printDateTime(currTime);
+}
+
 //----------------------- Time Server IO -----------------------
 
 void initializeInternetTime() {
-  timeClient.begin();
+  timeClient.Begin();
   timeClient.setTimeOffset(-25200); // California is GMT -7
 }
 
@@ -183,7 +226,9 @@ void writeInternetTime() { // TODO internet server should only be used to update
     timeClient.forceUpdate();
   }
   String formattedDate = timeClient.getFormattedDate();
+  Serial.println(formattedDate);
   // Format of date is 2018-05-28T16:00:13Z // TODO use ints for minute, hour, etc b/c RTC will do the same
+  /*
   writeVal(((uint8_t) (formattedDate.charAt(9)) - 48), true); // ASCII is offset
   writeVal(((uint8_t) (formattedDate.charAt(8)) - 48), true);
   writeVal(((uint8_t) (formattedDate.charAt(7)) - 48), true);
@@ -193,7 +238,7 @@ void writeInternetTime() { // TODO internet server should only be used to update
   digitalWrite(PIN_LED, lastOn);
   lastOn = !lastOn;
   delay(10);
+  */
 }
 
 //-------------------------- Timer IO --------------------------
-
