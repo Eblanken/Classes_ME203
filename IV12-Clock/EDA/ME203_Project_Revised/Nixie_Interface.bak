@@ -1,0 +1,274 @@
+EESchema Schematic File Version 4
+LIBS:ME203_Project-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 4 8
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L nixiemisc:CD40109 U2
+U 1 1 5CAB68A7
+P 5550 3550
+F 0 "U2" H 5550 4154 45  0000 C CNN
+F 1 "CD40109" H 5550 4070 45  0000 C CNN
+F 2 "nixiemisc:nixiemisc-TSSOP-16" H 5580 3700 20  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/cd40109b.pdf" H 5550 3550 50  0001 C CNN
+F 4 "296-12163-1-ND" H 5550 3550 50  0001 C CNN "Digikey"
+	1    5550 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x06 J3
+U 1 1 5CAB68AE
+P 6450 3500
+F 0 "J3" H 6530 3492 50  0000 L CNN
+F 1 "Conn_01x06" H 6530 3401 50  0001 L CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" H 6450 3500 50  0001 C CNN
+F 3 "~" H 6450 3500 50  0001 C CNN
+	1    6450 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6250 3400 6000 3400
+Wire Wire Line
+	6000 3400 6000 3250
+Wire Wire Line
+	6250 3700 6000 3700
+Wire Wire Line
+	6000 3700 6000 3850
+Wire Wire Line
+	6000 3950 6250 3950
+Wire Wire Line
+	6250 3950 6250 3800
+Wire Wire Line
+	6250 3300 6250 3150
+Wire Wire Line
+	6250 3150 6050 3150
+Wire Wire Line
+	5100 3350 4900 3350
+Wire Wire Line
+	4900 3350 4900 3150
+Wire Wire Line
+	4900 3150 5050 3150
+Wire Wire Line
+	4900 3350 4900 3550
+Wire Wire Line
+	4900 3550 5100 3550
+Connection ~ 4900 3350
+Wire Wire Line
+	4900 3550 4900 3750
+Wire Wire Line
+	4900 3750 5100 3750
+Connection ~ 4900 3550
+Wire Wire Line
+	4900 3750 4900 3950
+Wire Wire Line
+	4900 3950 5100 3950
+Connection ~ 4900 3750
+Text Label 6050 3400 0    50   ~ 0
+HCLK
+Text Label 6050 3500 0    50   ~ 0
+~HBL
+Text Label 6050 3600 0    50   ~ 0
+~HLE
+Wire Wire Line
+	6000 3650 6000 3600
+Wire Wire Line
+	6000 3600 6250 3600
+Wire Wire Line
+	6000 3450 6000 3500
+Wire Wire Line
+	6000 3500 6250 3500
+Text Label 6050 3700 0    50   ~ 0
+HDIN
+$Comp
+L SparkFun-PowerSymbols:GND #GND0103
+U 1 1 5CAB68D9
+P 6250 3950
+F 0 "#GND0103" H 6300 3900 45  0001 L BNN
+F 1 "GND" H 6250 3781 45  0000 C CNN
+F 2 "" H 6250 3850 60  0001 C CNN
+F 3 "" H 6250 3850 60  0001 C CNN
+	1    6250 3950
+	1    0    0    -1  
+$EndComp
+Connection ~ 6250 3950
+$Comp
+L SparkFun-Capacitors:1.0UF-0603-16V-10% C?
+U 1 1 5CAB68E1
+P 6250 2800
+AR Path="/5CA6DDFB/5CAB68E1" Ref="C?"  Part="1" 
+AR Path="/5CAB68E1" Ref="C?"  Part="1" 
+AR Path="/5CAB0187/5CAB68E1" Ref="C5"  Part="1" 
+F 0 "C5" V 6500 2650 45  0000 L CNN
+F 1 "0.1µF" V 6400 2750 45  0000 R CNN
+F 2 "0805" V 6300 2650 45  0000 C CNN
+F 3 "" H 6250 2800 50  0001 C CNN
+F 4 "CAP-00868" H 6358 2766 60  0001 L CNN "Field4"
+	1    6250 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SparkFun-Capacitors:1.0UF-0603-16V-10% C?
+U 1 1 5CAB68E9
+P 4950 2800
+AR Path="/5CA6DDFB/5CAB68E9" Ref="C?"  Part="1" 
+AR Path="/5CAB68E9" Ref="C?"  Part="1" 
+AR Path="/5CAB0187/5CAB68E9" Ref="C4"  Part="1" 
+F 0 "C4" V 5200 3100 45  0000 R CNN
+F 1 "0.1µF" V 5100 3100 45  0000 R CNN
+F 2 "0805" V 5000 3000 45  0000 C CNN
+F 3 "" H 4950 2800 50  0001 C CNN
+F 4 "CAP-00868" H 5058 2766 60  0001 L CNN "Field4"
+	1    4950 2800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6050 2800 6050 3150
+Connection ~ 6050 3150
+Wire Wire Line
+	6050 3150 6000 3150
+Wire Wire Line
+	6050 2800 6050 2650
+Connection ~ 6050 2800
+Wire Wire Line
+	5050 2800 5050 3150
+Connection ~ 5050 3150
+Wire Wire Line
+	5050 3150 5100 3150
+Wire Wire Line
+	5050 2800 5050 2650
+$Comp
+L SparkFun-PowerSymbols:GND #GND0104
+U 1 1 5CAB6906
+P 6450 2900
+F 0 "#GND0104" H 6500 2850 45  0001 L BNN
+F 1 "GND" H 6450 2731 45  0000 C CNN
+F 2 "" H 6450 2800 60  0001 C CNN
+F 3 "" H 6450 2800 60  0001 C CNN
+	1    6450 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L SparkFun-PowerSymbols:GND #GND0105
+U 1 1 5CAB690C
+P 4650 2900
+F 0 "#GND0105" H 4700 2850 45  0001 L BNN
+F 1 "GND" H 4650 2731 45  0000 C CNN
+F 2 "" H 4650 2800 60  0001 C CNN
+F 3 "" H 4650 2800 60  0001 C CNN
+	1    4650 2900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6350 2800 6450 2800
+Wire Wire Line
+	6450 2800 6450 2900
+Wire Wire Line
+	4750 2800 4650 2800
+Wire Wire Line
+	4650 2800 4650 2900
+Text HLabel 4100 3250 0    50   Input ~ 0
+CLK
+Text HLabel 4100 3450 0    50   Input ~ 0
+~BL
+Text HLabel 4100 3650 0    50   Input ~ 0
+~LE
+Text HLabel 4100 3850 0    50   Input ~ 0
+DIN
+$Comp
+L SparkFun-PowerSymbols:GND #GND0106
+U 1 1 5CABAB70
+P 4200 4150
+F 0 "#GND0106" H 4250 4100 45  0001 L BNN
+F 1 "GND" H 4200 3981 45  0000 C CNN
+F 2 "" H 4200 4050 60  0001 C CNN
+F 3 "" H 4200 4050 60  0001 C CNN
+	1    4200 4150
+	1    0    0    -1  
+$EndComp
+Connection ~ 5050 2800
+$Comp
+L power:+12V #PWR0107
+U 1 1 5CAB6900
+P 6050 2650
+F 0 "#PWR0107" H 6050 2500 50  0001 C CNN
+F 1 "+12V" H 6065 2823 50  0000 C CNN
+F 2 "" H 6050 2650 50  0001 C CNN
+F 3 "" H 6050 2650 50  0001 C CNN
+	1    6050 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+12V #PWR0108
+U 1 1 5CABE57F
+P 4200 2700
+F 0 "#PWR0108" H 4200 2550 50  0001 C CNN
+F 1 "+12V" H 4215 2873 50  0000 C CNN
+F 2 "" H 4200 2700 50  0001 C CNN
+F 3 "" H 4200 2700 50  0001 C CNN
+	1    4200 2700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4100 3250 5100 3250
+Wire Wire Line
+	4100 3450 5100 3450
+Wire Wire Line
+	4100 3650 5100 3650
+Wire Wire Line
+	4100 3850 5100 3850
+Text HLabel 4100 2950 0    50   Input ~ 0
+12V
+Text HLabel 4100 3100 0    50   Input ~ 0
+3V3
+Wire Wire Line
+	4100 2950 4200 2950
+Wire Wire Line
+	4200 2700 4200 2950
+Wire Wire Line
+	4400 3100 4100 3100
+Wire Wire Line
+	4400 2700 4400 3100
+Text HLabel 4100 4050 0    50   BiDi ~ 0
+GND
+Wire Wire Line
+	4100 4050 4200 4050
+Wire Wire Line
+	4200 4050 4200 4150
+$Comp
+L power:+3.3V #PWR?
+U 1 1 5CAFB2AA
+P 5050 2650
+AR Path="/5CAFB2AA" Ref="#PWR?"  Part="1" 
+AR Path="/5CAB0187/5CAFB2AA" Ref="#PWR0109"  Part="1" 
+F 0 "#PWR0109" H 5050 2500 50  0001 C CNN
+F 1 "+3.3V" H 5065 2823 50  0000 C CNN
+F 2 "" H 5050 2650 50  0001 C CNN
+F 3 "" H 5050 2650 50  0001 C CNN
+	1    5050 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR?
+U 1 1 5CAFC345
+P 4400 2700
+AR Path="/5CAFC345" Ref="#PWR?"  Part="1" 
+AR Path="/5CAB0187/5CAFC345" Ref="#PWR0110"  Part="1" 
+F 0 "#PWR0110" H 4400 2550 50  0001 C CNN
+F 1 "+3.3V" H 4415 2873 50  0000 C CNN
+F 2 "" H 4400 2700 50  0001 C CNN
+F 3 "" H 4400 2700 50  0001 C CNN
+	1    4400 2700
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

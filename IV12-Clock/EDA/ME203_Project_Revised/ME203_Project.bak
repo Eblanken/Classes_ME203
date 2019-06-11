@@ -939,10 +939,4 @@ F 3 "~" H 3400 6550 50  0001 C CNN
 	1    3400 6550
 	1    0    0    -1  
 $EndComp
-Text Notes 9750 700  0    50   ~ 0
-Notes:
-Text Notes 9750 800  0    50   ~ 0
--I2C wiring not correct
-Text Notes 9750 900  0    50   ~ 0
--Converter struggles, need to verify
 $EndSCHEMATC

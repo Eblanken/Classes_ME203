@@ -1,0 +1,520 @@
+EESchema Schematic File Version 4
+LIBS:ME203_Project-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 8 8
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L TPA2016D2RTJR:TPA2016D2RTJR U6
+U 1 1 5CC722EA
+P 6050 3400
+F 0 "U6" H 6050 4670 50  0000 C CNN
+F 1 "TPA2016D2RTJR" H 6050 4579 50  0000 C CNN
+F 2 "QFN50P400X400X80-21N" H 6050 3400 50  0001 L BNN
+F 3 "2.8-W/Ch Stereo Class-D Audio Amplifier with SmartGainTM AGC/DRC _TPA2016_ 20-QFN -40 to 85" H 6050 3400 50  0001 L BNN
+F 4 "TPA2016D2RTJR" H 6050 3400 50  0001 L BNN "Field4"
+F 5 "https://www.digikey.com/product-detail/en/texas-instruments/TPA2016D2RTJR/296-25430-1-ND/2183791?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol" H 6050 3400 50  0001 L BNN "Field5"
+F 6 "296-25430-1-ND" H 6050 3400 50  0001 L BNN "Field6"
+F 7 "Texas Instruments" H 6050 3400 50  0001 L BNN "Field7"
+F 8 "QFN-20 Texas Instruments" H 6050 3400 50  0001 L BNN "Field8"
+	1    6050 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR?
+U 1 1 5CC72E7F
+P 4600 2350
+AR Path="/5CC72E7F" Ref="#PWR?"  Part="1" 
+AR Path="/5CC63367/5CC72E7F" Ref="#PWR0131"  Part="1" 
+F 0 "#PWR0131" H 4600 2200 50  0001 C CNN
+F 1 "+3.3V" H 4615 2523 50  0000 C CNN
+F 2 "" H 4600 2350 50  0001 C CNN
+F 3 "" H 4600 2350 50  0001 C CNN
+	1    4600 2350
+	-1   0    0    -1  
+$EndComp
+$Comp
+L SparkFun-PowerSymbols:GND #GND?
+U 1 1 5CC72E85
+P 5250 4700
+AR Path="/5CC72E85" Ref="#GND?"  Part="1" 
+AR Path="/5CC63367/5CC72E85" Ref="#GND0132"  Part="1" 
+F 0 "#GND0132" H 5300 4650 45  0001 L BNN
+F 1 "GND" H 5250 4531 45  0000 C CNN
+F 2 "" H 5250 4600 60  0001 C CNN
+F 3 "" H 5250 4600 60  0001 C CNN
+	1    5250 4700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5250 2900 5350 2900
+Wire Wire Line
+	5350 2800 5250 2800
+Connection ~ 5250 2800
+Wire Wire Line
+	5250 2800 5250 2900
+Wire Wire Line
+	5350 2700 5250 2700
+Connection ~ 5250 2700
+Wire Wire Line
+	5250 2700 5250 2800
+Wire Wire Line
+	5350 2600 5250 2600
+Wire Wire Line
+	5250 2600 5250 2700
+Wire Wire Line
+	5350 4600 5250 4600
+Wire Wire Line
+	5250 4600 5250 4700
+Wire Wire Line
+	5350 4500 5250 4500
+Wire Wire Line
+	5250 4500 5250 4600
+Connection ~ 5250 4600
+Wire Wire Line
+	5350 4400 5250 4400
+$Comp
+L Connector_Generic:Conn_01x02 J8
+U 1 1 5CC73996
+P 7050 2500
+F 0 "J8" H 7130 2446 50  0000 L CNN
+F 1 "Conn_01x02" H 7130 2401 50  0001 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 7050 2500 50  0001 C CNN
+F 3 "~" H 7050 2500 50  0001 C CNN
+	1    7050 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J9
+U 1 1 5CC73A42
+P 7050 2800
+F 0 "J9" H 7130 2746 50  0000 L CNN
+F 1 "Conn_01x02" H 7130 2701 50  0001 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 7050 2800 50  0001 C CNN
+F 3 "~" H 7050 2800 50  0001 C CNN
+	1    7050 2800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6850 2500 6750 2500
+Wire Wire Line
+	6850 2600 6750 2600
+Wire Wire Line
+	6850 2800 6750 2800
+Wire Wire Line
+	6850 2900 6750 2900
+Text Notes 7250 2600 0    50   ~ 0
+Speaker 1
+Text Notes 7250 2900 0    50   ~ 0
+Speaker 2
+Text HLabel 5250 3100 0    50   Input ~ 0
+SCL
+Text HLabel 5250 3200 0    50   Input ~ 0
+SDA
+Wire Wire Line
+	5350 3100 5250 3100
+Wire Wire Line
+	5350 3200 5250 3200
+$Comp
+L SparkFun-Resistors:10KOHM-0603-1_10W-1% R?
+U 1 1 5CC768A6
+P 4350 3000
+AR Path="/5CAA488B/5CC768A6" Ref="R?"  Part="1" 
+AR Path="/5CAEE30A/5CC768A6" Ref="R?"  Part="1" 
+AR Path="/5CC63367/5CC768A6" Ref="R21"  Part="1" 
+F 0 "R21" V 4250 3050 45  0000 L CNN
+F 1 "100KΩ" V 4350 3050 45  0000 L CNN
+F 2 "0805" H 4350 3150 20  0001 C CNN
+F 3 "" H 4350 3000 60  0001 C CNN
+F 4 "RES-00824" V 4392 3068 60  0001 L CNN "Field4"
+F 5 "0805" V 4450 3150 50  0000 C CNN "Size"
+	1    4350 3000
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4350 3300 4350 3200
+$Comp
+L power:+3.3V #PWR?
+U 1 1 5CC771CA
+P 4350 2700
+AR Path="/5CC771CA" Ref="#PWR?"  Part="1" 
+AR Path="/5CC63367/5CC771CA" Ref="#PWR0132"  Part="1" 
+F 0 "#PWR0132" H 4350 2550 50  0001 C CNN
+F 1 "+3.3V" H 4365 2873 50  0000 C CNN
+F 2 "" H 4350 2700 50  0001 C CNN
+F 3 "" H 4350 2700 50  0001 C CNN
+	1    4350 2700
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	4350 2700 4350 2800
+Wire Wire Line
+	5350 3600 5250 3600
+Wire Wire Line
+	5250 3800 5350 3800
+Text HLabel 4950 3900 0    50   Input ~ 0
+R
+Text HLabel 4950 3500 0    50   Input ~ 0
+L
+Wire Wire Line
+	5050 3500 4950 3500
+Wire Wire Line
+	5050 3900 4950 3900
+Wire Wire Line
+	4350 3300 5350 3300
+Wire Wire Line
+	5250 2600 4850 2600
+Wire Wire Line
+	4600 2350 4600 2600
+Connection ~ 5250 2600
+$Comp
+L SparkFun-Capacitors:10UF-0603-6.3V-20% C?
+U 1 1 5CC7DF28
+P 4850 2800
+AR Path="/5CAEE30A/5CC7DF28" Ref="C?"  Part="1" 
+AR Path="/5CC63367/5CC7DF28" Ref="C16"  Part="1" 
+F 0 "C16" H 4958 2937 45  0000 L CNN
+F 1 "10µF" H 4958 2853 45  0000 L CNN
+F 2 "0805" H 4850 3050 20  0001 C CNN
+F 3 "" H 4850 2800 50  0001 C CNN
+F 4 "CAP-11015" H 4958 2766 60  0001 L CNN "Field4"
+F 5 "0805" H 4958 2766 50  0000 L CNN "Size"
+	1    4850 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SparkFun-Capacitors:10UF-0603-6.3V-20% C?
+U 1 1 5CC7E52E
+P 4600 2800
+AR Path="/5CAEE30A/5CC7E52E" Ref="C?"  Part="1" 
+AR Path="/5CC63367/5CC7E52E" Ref="C15"  Part="1" 
+F 0 "C15" H 4708 2937 45  0000 L CNN
+F 1 "10µF" H 4708 2853 45  0001 L CNN
+F 2 "0805" H 4600 3050 20  0001 C CNN
+F 3 "" H 4600 2800 50  0001 C CNN
+F 4 "CAP-11015" H 4708 2766 60  0001 L CNN "Field4"
+F 5 "0805" H 4708 2766 50  0001 L CNN "Size"
+	1    4600 2800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4850 2600 4600 2600
+Connection ~ 4850 2600
+Connection ~ 4600 2600
+Wire Wire Line
+	4850 2900 4600 2900
+$Comp
+L SparkFun-PowerSymbols:GND #GND?
+U 1 1 5CC800D9
+P 4850 3000
+AR Path="/5CC800D9" Ref="#GND?"  Part="1" 
+AR Path="/5CC63367/5CC800D9" Ref="#GND0133"  Part="1" 
+F 0 "#GND0133" H 4900 2950 45  0001 L BNN
+F 1 "GND" H 4850 2831 45  0000 C CNN
+F 2 "" H 4850 2900 60  0001 C CNN
+F 3 "" H 4850 2900 60  0001 C CNN
+	1    4850 3000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4850 2900 4850 3000
+Connection ~ 4850 2900
+$Comp
+L SparkFun-Capacitors:10UF-0603-6.3V-20% C?
+U 1 1 5CC816E2
+P 5400 1950
+AR Path="/5CAEE30A/5CC816E2" Ref="C?"  Part="1" 
+AR Path="/5CC63367/5CC816E2" Ref="C19"  Part="1" 
+F 0 "C19" H 5508 2087 45  0000 L CNN
+F 1 "0.1µF" H 5508 2003 45  0000 L CNN
+F 2 "0805" H 5400 2200 20  0001 C CNN
+F 3 "" H 5400 1950 50  0001 C CNN
+F 4 "CAP-11015" H 5508 1916 60  0001 L CNN "Field4"
+F 5 "0805" H 5508 1916 50  0000 L CNN "Size"
+	1    5400 1950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5400 2050 5400 2150
+Wire Wire Line
+	5350 2500 5250 2500
+Wire Wire Line
+	5250 3600 5250 3700
+Wire Wire Line
+	4750 3700 5250 3700
+Connection ~ 5250 3700
+Wire Wire Line
+	5250 3700 5250 3800
+$Comp
+L SparkFun-Capacitors:10UF-0603-6.3V-20% C?
+U 1 1 5CC8B6E0
+P 5150 3900
+AR Path="/5CAEE30A/5CC8B6E0" Ref="C?"  Part="1" 
+AR Path="/5CC63367/5CC8B6E0" Ref="C18"  Part="1" 
+F 0 "C18" V 5100 3750 45  0000 L CNN
+F 1 "1µF" V 5200 3750 45  0000 L CNN
+F 2 "0805" H 5150 4150 20  0001 C CNN
+F 3 "" H 5150 3900 50  0001 C CNN
+F 4 "CAP-11015" H 5258 3866 60  0001 L CNN "Field4"
+F 5 "0805" V 5300 3750 50  0000 L CNN "Size"
+	1    5150 3900
+	0    1    1    0   
+$EndComp
+$Comp
+L SparkFun-Capacitors:10UF-0603-6.3V-20% C?
+U 1 1 5CC8E1AA
+P 5150 3500
+AR Path="/5CAEE30A/5CC8E1AA" Ref="C?"  Part="1" 
+AR Path="/5CC63367/5CC8E1AA" Ref="C17"  Part="1" 
+F 0 "C17" V 5100 3350 45  0000 L CNN
+F 1 "1µF" V 5200 3350 45  0000 L CNN
+F 2 "0805" H 5150 3750 20  0001 C CNN
+F 3 "" H 5150 3500 50  0001 C CNN
+F 4 "CAP-11015" H 5258 3466 60  0001 L CNN "Field4"
+F 5 "0805" V 5300 3350 50  0000 L CNN "Size"
+	1    5150 3500
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Ferrite_Bead FB1
+U 1 1 5CC9309E
+P 3000 1600
+F 0 "FB1" V 2818 1600 50  0000 C CNN
+F 1 "Ferrite_Bead" V 2817 1600 50  0001 C CNN
+F 2 "0805" V 2930 1600 50  0001 C CNN
+F 3 "~" H 3000 1600 50  0001 C CNN
+	1    3000 1600
+	0    1    1    0   
+$EndComp
+$Comp
+L SparkFun-Capacitors:10UF-0603-6.3V-20% C?
+U 1 1 5CC949CD
+P 2700 1900
+AR Path="/5CAEE30A/5CC949CD" Ref="C?"  Part="1" 
+AR Path="/5CC63367/5CC949CD" Ref="C13"  Part="1" 
+F 0 "C13" H 2808 2037 45  0000 L CNN
+F 1 "0.1µF" H 2808 1953 45  0000 L CNN
+F 2 "0805" H 2700 2150 20  0001 C CNN
+F 3 "" H 2700 1900 50  0001 C CNN
+F 4 "CAP-11015" H 2808 1866 60  0001 L CNN "Field4"
+F 5 "0805" H 2808 1866 50  0000 L CNN "Size"
+	1    2700 1900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2700 2000 2700 2100
+$Comp
+L SparkFun-PowerSymbols:GND #GND?
+U 1 1 5CC949D5
+P 2700 2100
+AR Path="/5CC949D5" Ref="#GND?"  Part="1" 
+AR Path="/5CC63367/5CC949D5" Ref="#GND0134"  Part="1" 
+F 0 "#GND0134" H 2750 2050 45  0001 L BNN
+F 1 "GND" H 2700 1931 45  0000 C CNN
+F 2 "" H 2700 2000 60  0001 C CNN
+F 3 "" H 2700 2000 60  0001 C CNN
+	1    2700 2100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5250 1650 5250 2500
+Wire Wire Line
+	5250 1650 5400 1650
+Wire Wire Line
+	5400 1650 5400 1750
+Wire Wire Line
+	2700 1600 2850 1600
+Wire Wire Line
+	2700 1600 2700 1700
+$Comp
+L power:+3.3V #PWR?
+U 1 1 5CC9AE5A
+P 2700 1500
+AR Path="/5CC9AE5A" Ref="#PWR?"  Part="1" 
+AR Path="/5CC63367/5CC9AE5A" Ref="#PWR0133"  Part="1" 
+F 0 "#PWR0133" H 2700 1350 50  0001 C CNN
+F 1 "+3.3V" H 2715 1673 50  0000 C CNN
+F 2 "" H 2700 1500 50  0001 C CNN
+F 3 "" H 2700 1500 50  0001 C CNN
+	1    2700 1500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L SparkFun-PowerSymbols:AGND #M0101
+U 1 1 5CCA0481
+P 5400 2150
+F 0 "#M0101" H 5450 2100 45  0001 L BNN
+F 1 "AGND" H 5400 1981 45  0000 C CNN
+F 2 "XXX-00000" H 5400 1886 60  0001 C CNN
+F 3 "" H 5400 2050 60  0001 C CNN
+	1    5400 2150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5250 4500 4750 4500
+Wire Wire Line
+	4750 3700 4750 4500
+Connection ~ 5250 4500
+Wire Wire Line
+	5250 4400 5250 4200
+Wire Wire Line
+	5250 4200 5000 4200
+$Comp
+L SparkFun-PowerSymbols:AGND #M0102
+U 1 1 5CCA4986
+P 5000 4250
+F 0 "#M0102" H 5050 4200 45  0001 L BNN
+F 1 "AGND" H 5000 4081 45  0000 C CNN
+F 2 "XXX-00000" H 5000 3986 60  0001 C CNN
+F 3 "" H 5000 4150 60  0001 C CNN
+	1    5000 4250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5000 4200 5000 4250
+Wire Wire Line
+	3300 1600 3300 1500
+$Comp
+L power:+3.3VA #PWR0134
+U 1 1 5CCAA151
+P 3300 1500
+F 0 "#PWR0134" H 3300 1350 50  0001 C CNN
+F 1 "+3.3VA" H 3315 1673 50  0000 C CNN
+F 2 "" H 3300 1500 50  0001 C CNN
+F 3 "" H 3300 1500 50  0001 C CNN
+	1    3300 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3VA #PWR0135
+U 1 1 5CCAA4D8
+P 5400 1650
+F 0 "#PWR0135" H 5400 1500 50  0001 C CNN
+F 1 "+3.3VA" H 5415 1823 50  0000 C CNN
+F 2 "" H 5400 1650 50  0001 C CNN
+F 3 "" H 5400 1650 50  0001 C CNN
+	1    5400 1650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2900 2600 2700 2600
+$Comp
+L SparkFun-PowerSymbols:AGND #M0103
+U 1 1 5CCAD1EE
+P 2700 3100
+F 0 "#M0103" H 2750 3050 45  0001 L BNN
+F 1 "AGND" H 2700 2931 45  0000 C CNN
+F 2 "XXX-00000" H 2700 2836 60  0001 C CNN
+F 3 "" H 2700 3000 60  0001 C CNN
+	1    2700 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Ferrite_Bead FB2
+U 1 1 5CCAE611
+P 3050 2600
+F 0 "FB2" V 2868 2600 50  0000 C CNN
+F 1 "Ferrite_Bead" V 2867 2600 50  0001 C CNN
+F 2 "0805" V 2980 2600 50  0001 C CNN
+F 3 "~" H 3050 2600 50  0001 C CNN
+	1    3050 2600
+	0    1    1    0   
+$EndComp
+$Comp
+L SparkFun-Capacitors:10UF-0603-6.3V-20% C?
+U 1 1 5CCAFDDA
+P 3000 2950
+AR Path="/5CAEE30A/5CCAFDDA" Ref="C?"  Part="1" 
+AR Path="/5CC63367/5CCAFDDA" Ref="C14"  Part="1" 
+F 0 "C14" V 2850 2950 45  0000 L CNN
+F 1 "0.1µF" V 3150 3000 45  0000 C CNN
+F 2 "0805" H 3000 3200 20  0001 C CNN
+F 3 "" H 3000 2950 50  0001 C CNN
+F 4 "CAP-11015" H 3108 2916 60  0001 L CNN "Field4"
+F 5 "0805" V 3250 3000 50  0000 C CNN "Size"
+	1    3000 2950
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3200 2600 3350 2600
+$Comp
+L SparkFun-PowerSymbols:GND #GND?
+U 1 1 5CCB4FC8
+P 3350 3100
+AR Path="/5CCB4FC8" Ref="#GND?"  Part="1" 
+AR Path="/5CC63367/5CCB4FC8" Ref="#GND0135"  Part="1" 
+F 0 "#GND0135" H 3400 3050 45  0001 L BNN
+F 1 "GND" H 3350 2931 45  0000 C CNN
+F 2 "" H 3350 3000 60  0001 C CNN
+F 3 "" H 3350 3000 60  0001 C CNN
+	1    3350 3100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2700 2600 2700 2950
+Wire Wire Line
+	3350 2600 3350 2950
+Wire Wire Line
+	3200 2950 3350 2950
+Connection ~ 3350 2950
+Wire Wire Line
+	3350 2950 3350 3100
+Wire Wire Line
+	2700 2950 2900 2950
+Connection ~ 2700 2950
+Wire Wire Line
+	2700 2950 2700 3100
+Wire Wire Line
+	2700 1500 2700 1600
+Connection ~ 2700 1600
+Wire Wire Line
+	3300 1600 3150 1600
+$Comp
+L SparkFun-PowerSymbols:GND #GND?
+U 1 1 5CD13ABC
+P 4350 4100
+AR Path="/5CD13ABC" Ref="#GND?"  Part="1" 
+AR Path="/5CC63367/5CD13ABC" Ref="#GND0136"  Part="1" 
+F 0 "#GND0136" H 4400 4050 45  0001 L BNN
+F 1 "GND" H 4350 3931 45  0000 C CNN
+F 2 "" H 4350 4000 60  0001 C CNN
+F 3 "" H 4350 4000 60  0001 C CNN
+	1    4350 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR?
+U 1 1 5CD14D2C
+P 4350 3700
+AR Path="/5CD14D2C" Ref="#PWR?"  Part="1" 
+AR Path="/5CC63367/5CD14D2C" Ref="#PWR0136"  Part="1" 
+F 0 "#PWR0136" H 4350 3550 50  0001 C CNN
+F 1 "+3.3V" H 4365 3873 50  0000 C CNN
+F 2 "" H 4350 3700 50  0001 C CNN
+F 3 "" H 4350 3700 50  0001 C CNN
+	1    4350 3700
+	-1   0    0    -1  
+$EndComp
+Text HLabel 4250 4000 0    50   BiDi ~ 0
+GND
+Text HLabel 4250 3800 0    50   Input ~ 0
+3V3
+Wire Wire Line
+	4250 3800 4350 3800
+Wire Wire Line
+	4350 3800 4350 3700
+Wire Wire Line
+	4250 4000 4350 4000
+Wire Wire Line
+	4350 4000 4350 4100
+$EndSCHEMATC

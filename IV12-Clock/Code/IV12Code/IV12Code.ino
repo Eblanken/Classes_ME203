@@ -34,6 +34,7 @@
 #define FSM_TOUCH_LEFT_LONG    4
 #define FSM_TOUCH_MIDDLE_LONG  5
 #define FSM_TOUCH_RIGHT_LONG   6
+#define FSM_TOUCH_SHORT        500  // [ms] Longest Duration considered to be a short touch, else long touch
 Fsm fsm;
 // > Count up timer
 State state_counter_countup(state_counter_countup_enter, &state_counter_countup, NULL);
@@ -76,9 +77,11 @@ typedef struct {
   bool writeDecimals[4]; // Top left, bottom left, top right, bottom right
 } nixieWriteStruct;
 
-#define PIN_TOUCH_LEFT   T9
-#define PIN_TOUCH_MIDDLE T8
-#define PIN_TOUCH_RIGHT  T5
+#define PIN_TOUCH_LEFT          T9
+#define PIN_TOUCH_MIDDLE        T8
+#define PIN_TOUCH_RIGHT         T5
+#define PIN_TOUCH_SPEAKER_LEFT  T3
+#define PIN_TOUCH_SPEAKER_RIGHT T2
 #define TOUCH_THRESHOLD  40
 #define TOUCH_TIMEOUT    100 // How long since last touch until considered timed out in millis
 
@@ -88,7 +91,7 @@ typedef struct {
   uint16_t startTime      = 0;
 } buttonState;
 
-buttonState leftTouched, middleTouched, rightTouched;
+buttonState leftTouched, middleTouched, rightTouched, rightSpeakerTouched, leftSpeakerTouched;
 
 //----------------------- The Program --------------------------
 
@@ -245,9 +248,29 @@ void testNixiesCountUp() {
 }
 
 //----------------------- Touch Interface ---------------------
+void touchSpeakerLeft() {
+  if((millis() - leftSpeakerTouched.lastUpdateTime) > TOUCH_TIMEOUT) {
+     leftSpeakerTouched.startTime = millis();
+     #ifdef DEBUG_TOUCH
+     Serial.println("Touched Left Speaker"); 
+     #endif
+  }
+  leftSpeakerTouched.touched = true;
+  leftSpeakerTouched.lastUpdateTime = millis();
+}
+
+void touchSpeakerRight() {
+  if((millis() - rightSpeakerTouched.lastUpdateTime) > TOUCH_TIMEOUT) {
+    rightSpeakerTouched.startTime = millis();
+    #ifdef DEBUG_TOUCH
+    Serial.println("Touched Right Speaker");
+    #endif 
+  }
+  rightSpeakerTouched.touched = true;
+  rightSpeakerTouched.lastUpdateTime = millis();
+}
 
 void touchLeft() {
-
   if((millis() - leftTouched.lastUpdateTime) > TOUCH_TIMEOUT) {
      leftTouched.startTime = millis();
      #ifdef DEBUG_TOUCH
@@ -284,11 +307,15 @@ void initializeTouch() {
   touchAttachInterrupt(PIN_TOUCH_LEFT,   touchLeft,   TOUCH_THRESHOLD);
   touchAttachInterrupt(PIN_TOUCH_MIDDLE, touchMiddle, TOUCH_THRESHOLD);
   touchAttachInterrupt(PIN_TOUCH_RIGHT,  touchRight,  TOUCH_THRESHOLD);
+  touchAttachInterrupt(PIN_TOUCH_SPEAKER_LEFT, touchSpeakerRight, TOUCH_THRESHOLD);
+  touchAttachInterrupt(PIN_TOUCH_SPEAKER_RIGHT,  touchSpeakerLeft,  TOUCH_THRESHOLD);
 }
 
 // Sets the buttons low if they have not been touched in awhile
 void refreshButtons() {
   int currentTime = millis();
+
+  // Buttons 
   if(leftTouched.touched && ((currentTime - leftTouched.lastUpdateTime) > TOUCH_TIMEOUT)) {
     leftTouched.touched = false;
     #ifdef DEBUG_TOUCH
@@ -307,6 +334,20 @@ void refreshButtons() {
     rightTouched.touched = false;
     #ifdef DEBUG_TOUCH
     Serial.println("Un-touched Right");
+    #endif
+  }
+  // Speakers
+  if(leftSpeakerTouched.touched && ((currentTime - leftSpeakerTouched.lastUpdateTime) > TOUCH_TIMEOUT)) {
+    leftSpeakerTouched.touched = false;
+    #ifdef DEBUG_TOUCH
+    Serial.println("Un-touched Left Speaker");
+    #endif
+  }
+
+  if(rightSpeakerTouched.touched && ((currentTime - rightSpeakerTouched.lastUpdateTime) > TOUCH_TIMEOUT)) {
+    rightSpeakerTouched.touched = false;
+    #ifdef DEBUG_TOUCH
+    Serial.println("Un-touched Right Speaker");
     #endif
   }
 }

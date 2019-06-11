@@ -4,7 +4,7 @@ EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 8
+Sheet 1 7
 Title ""
 Date ""
 Rev ""
@@ -677,16 +677,6 @@ F 3 "" H 2800 4500 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	2800 4500 2800 4600
-$Sheet
-S 5900 2250 600  300 
-U 5CCEB9C5
-F0 "MCU_TEMP" 50
-F1 "MCU_TEMP.sch" 50
-F2 "SCL" I L 5900 2450 50 
-F3 "GND" B R 6500 2450 50 
-F4 "3V3" I R 6500 2350 50 
-F5 "SDA" I L 5900 2350 50 
-$EndSheet
 $Comp
 L SparkFun-PowerSymbols:GND #GND0123
 U 1 1 5CCF0135
@@ -698,47 +688,9 @@ F 3 "" H 6600 3200 60  0001 C CNN
 	1    6600 3300
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	6600 2250 6600 2350
-Wire Wire Line
-	6600 2450 6600 2550
-$Comp
-L power:+3.3V #PWR0122
-U 1 1 5CCF9E67
-P 6600 2250
-F 0 "#PWR0122" H 6600 2100 50  0001 C CNN
-F 1 "+3.3V" H 6615 2423 50  0000 C CNN
-F 2 "" H 6600 2250 50  0001 C CNN
-F 3 "" H 6600 2250 50  0001 C CNN
-	1    6600 2250
-	-1   0    0    -1  
-$EndComp
-$Comp
-L SparkFun-PowerSymbols:GND #GND0124
-U 1 1 5CCF9E6D
-P 6600 2550
-F 0 "#GND0124" H 6650 2500 45  0001 L BNN
-F 1 "GND" H 6600 2381 45  0000 C CNN
-F 2 "" H 6600 2450 60  0001 C CNN
-F 3 "" H 6600 2450 60  0001 C CNN
-	1    6600 2550
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	6500 2450 6600 2450
-Wire Wire Line
-	6600 2350 6500 2350
-Wire Wire Line
-	5500 3100 5500 2350
-Wire Wire Line
-	5500 2350 5900 2350
 Connection ~ 5500 3100
 Wire Wire Line
 	5500 3100 5900 3100
-Wire Wire Line
-	5900 2450 5600 2450
-Wire Wire Line
-	5600 2450 5600 3200
 Connection ~ 5600 3200
 Wire Wire Line
 	5600 3200 5900 3200
@@ -756,12 +708,6 @@ F5 "L" I L 5850 1400 50
 F6 "GND" B R 6500 1700 50 
 F7 "3V3" I R 6500 1400 50 
 $EndSheet
-Connection ~ 5600 2450
-Connection ~ 5500 2350
-Wire Wire Line
-	5600 1700 5600 2450
-Wire Wire Line
-	5500 1600 5500 2350
 Wire Wire Line
 	5600 1700 5850 1700
 Wire Wire Line
@@ -939,10 +885,8 @@ F 3 "~" H 3400 6550 50  0001 C CNN
 	1    3400 6550
 	1    0    0    -1  
 $EndComp
-Text Notes 9750 700  0    50   ~ 0
-Notes:
-Text Notes 9750 800  0    50   ~ 0
--I2C wiring not correct
-Text Notes 9750 900  0    50   ~ 0
--Converter struggles, need to verify
+Wire Wire Line
+	5500 1600 5500 3100
+Wire Wire Line
+	5600 1700 5600 3200
 $EndSCHEMATC
